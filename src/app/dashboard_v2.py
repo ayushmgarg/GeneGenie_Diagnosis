@@ -249,6 +249,46 @@ def load_iba_panel_map():
 
 
 @st.cache_data(show_spinner=False)
+def load_master_table():
+    """Load full master gene-disease-phenotype table for HPO direct lookup."""
+    p = PROC / "master_gene_disease_phenotype.csv"
+    if p.exists():
+        df = pd.read_csv(p, low_memory=False,
+                         usecols=["disease_id", "hpo_id", "gene_symbol"])
+        return df
+    return None
+
+
+def hpo_direct_lookup(hpo_ids, master_df, name_map, top_k=10):
+    """
+    Direct HPO-ID → disease lookup across all 12,671 diseases.
+    Score = fraction of query HPO terms matched per disease.
+    Works for ANY HPO ID regardless of classifier training vocabulary.
+    """
+    if master_df is None or not hpo_ids:
+        return []
+    hpo_set = set(hpo_ids)
+    filtered = master_df[master_df["hpo_id"].isin(hpo_set)]
+    if filtered.empty:
+        return []
+    dis_counts = filtered.groupby("disease_id")["hpo_id"].nunique()
+    gene_counts = master_df.groupby("disease_id")["gene_symbol"].nunique()
+    top = dis_counts.nlargest(top_k)
+    results = []
+    for rank, (did, cnt) in enumerate(top.items()):
+        dname = name_map.get(did, "") if name_map else ""
+        results.append({
+            "Rank": rank + 1,
+            "Disease ID": did,
+            "Disease Name": dname if dname else did,
+            "HPO Match": f"{int(cnt)}/{len(hpo_ids)}",
+            "Score %": round(100.0 * cnt / len(hpo_ids), 1),
+            "Genes": int(gene_counts.get(did, 0)),
+        })
+    return results
+
+
+@st.cache_data(show_spinner=False)
 def load_gene_actionability():
     try:
         p = PROC / "gene_actionability.csv"
@@ -498,7 +538,7 @@ def tab_classifier():
 
     with col1:
         st.markdown("##### Patient Presentation")
-        default_hpos = "HP:0001250\nHP:0001263\nHP:0000252\nHP:0001252\nHP:0001290"
+        default_hpos = "HP:0001166\nHP:0000098\nHP:0001382\nHP:0002650\nHP:0002616"
         hpo_input = st.text_area(
             "HPO IDs (one per line):", value=default_hpos, height=140,
             help="Enter Human Phenotype Ontology codes for observed symptoms",
@@ -524,11 +564,11 @@ def tab_classifier():
     with col2:
         st.markdown("##### Clinical Examples")
         examples = {
-            "👶 Pediatric Seizures + DD": "HP:0001250\nHP:0001263\nHP:0000252\nHP:0001252\nHP:0001290",
-            "🧠 Congenital Brain Anomaly": "HP:0001263\nHP:0001274\nHP:0002197\nHP:0000252\nHP:0001518",
-            "💓 Neonatal Cardiac": "HP:0001631\nHP:0001629\nHP:0001636\nHP:0001627\nHP:0000407",
-            "🦴 Skeletal Dysplasia": "HP:0003510\nHP:0000774\nHP:0003468\nHP:0002650\nHP:0001511",
-            "👁️ Congenital Vision": "HP:0000505\nHP:0000518\nHP:0000589\nHP:0000545\nHP:0000504",
+            "🦋 Marfan Syndrome":      "HP:0001166\nHP:0000098\nHP:0001382\nHP:0002650\nHP:0002616",
+            "🫁 Cystic Fibrosis":      "HP:0032261\nHP:0002570\nHP:0001394\nHP:0002726\nHP:0001392",
+            "🧬 PKU":                   "HP:0001250\nHP:0001249\nHP:0002514\nHP:0005982\nHP:0007513",
+            "🦷 Apert Syndrome":       "HP:0001159\nHP:0001177\nHP:0001274\nHP:0001249\nHP:0007291",
+            "🧠 Prader-Willi":         "HP:0001290\nHP:0001270\nHP:0001249\nHP:0000054\nHP:0001385",
         }
         for name, hpos in examples.items():
             if st.button(name, key=f"ex_{name}", use_container_width=True):
@@ -539,28 +579,73 @@ def tab_classifier():
             hpo_input = st.session_state.pop("_hpo_input")
 
     if predict_btn and hpo_input.strip():
-        hpo_ids = [h.strip() for h in hpo_input.strip().split("\n") if h.strip()]
+        hpo_ids = [h.strip() for h in hpo_input.strip().split("\n") if h.strip().startswith("HP:")]
+        if not hpo_ids:
+            st.warning("Enter HPO IDs (format: HP:XXXXXXX), one per line.")
+            return
+
+        disease_names = load_disease_name_map()
+        master_df = load_master_table()
         preds, matched = predict_disease(hpo_ids, rf, xgb_clf, le, feats, top_k, name_map=disease_names)
 
-        if not preds:
+        # Always run HPO direct lookup — works across all 12,671 diseases
+        hpo_results = hpo_direct_lookup(hpo_ids, master_df, disease_names, top_k=top_k)
+
+        # Determine classifier reliability:
+        # Need ≥3 matched HPOs AND top prediction > 20% confidence (not guessing)
+        top_confidence = preds[0]["Ensemble %"] if preds else 0
+        classifier_reliable = preds and len(matched) >= 3 and top_confidence >= 20.0
+
+        if not preds or len(matched) == 0:
+            # Classifier couldn't match any HPOs → show HPO lookup only
+            st.markdown("""
+            <div class='info-card' style='background:#E8F4FD;border-left:4px solid #0066CC;padding:0.8rem 1rem;border-radius:8px;margin-bottom:1rem;'>
+            <strong>📋 HPO Search Results</strong> — Searching across all 12,671 rare diseases by phenotype overlap.
+            The 500-disease classifier uses a different HPO vocabulary; retrieval covers the full corpus.
+            </div>
+            """, unsafe_allow_html=True)
+            if hpo_results:
+                st.markdown(f"**Top matches for {len(hpo_ids)} HPO terms across 12,671 diseases:**")
+                df_res = pd.DataFrame(hpo_results)
+                st.dataframe(df_res, use_container_width=True, hide_index=True)
+            else:
+                st.error("HPO IDs not found in database. Check codes at hpo.jax.org")
+            return
+
+        # Always show HPO direct lookup first (works for ALL diseases)
+        if hpo_results:
+            st.markdown("#### 🔍 HPO Phenotype Match — All 12,671 Diseases")
+            st.caption("Ranked by HPO term overlap across full disease corpus (OMIM + Orphanet + HPO)")
+            df_hpo = pd.DataFrame(hpo_results)
+            st.dataframe(df_hpo, use_container_width=True, hide_index=True)
+
+        if classifier_reliable:
+            st.markdown(f"""
+            <div class='success-card'>
+            ✓ Matched <strong>{len(matched)}/{len(hpo_ids)}</strong> HPO terms to classifier vocabulary.
+            Showing top {top_k} predictions.
+            </div>
+            """, unsafe_allow_html=True)
+        else:
+            note = (
+                f"Only <strong>{len(matched)}/{len(hpo_ids)}</strong> HPO terms matched the "
+                f"500-disease classifier vocabulary" if len(matched) < 3
+                else f"Matched <strong>{len(matched)}/{len(hpo_ids)}</strong> HPO terms but "
+                     f"top confidence <strong>{top_confidence:.1f}%</strong> is below threshold "
+                     f"(symptoms are generic — insufficient to differentiate within 500 classes)"
+            )
             st.markdown(f"""
             <div class='warning-card'>
-            ⚠️ None of the entered HPO IDs match the pediatric vocabulary.
-            This model was trained on 500 pediatric-onset diseases with {len(feats)} HPO features.
-            Try searching by symptom name above.
+            ⚠️ {note}.<br>
+            HPO direct lookup results above cover all 12,671 diseases and are your primary result.
             </div>
             """, unsafe_allow_html=True)
             return
 
-        st.markdown(f"""
-        <div class='success-card'>
-        ✓ Matched <strong>{len(matched)}/{len(hpo_ids)}</strong> HPO terms. Showing top {top_k} predictions.
-        </div>
-        """, unsafe_allow_html=True)
-
-        # Predictions table
+        # Classifier results (500-disease closed-world) — only shown when ≥3 HPOs matched
         df_pred = pd.DataFrame(preds)
-        st.markdown("#### 🎯 Ranked Disease Predictions")
+        st.markdown("#### 🤖 Classifier Predictions — 500-Disease Scope")
+        st.caption("Random Forest V4 (98.94% within-distribution accuracy, 426 features)")
         st.dataframe(
             df_pred.style.background_gradient(subset=["Ensemble %"], cmap="Blues"),
             use_container_width=True, hide_index=True,
