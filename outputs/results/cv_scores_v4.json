@@ -1,0 +1,29 @@
+{
+  "method": "StratifiedKFold (correct for multi-class)",
+  "cv_f1_macro_mean": 0.9621067987567988,
+  "cv_f1_macro_std": 0.0014071394470007307,
+  "cv_scores": [
+    0.9628301864801865,
+    0.9633505938505939,
+    0.9601396159396158
+  ],
+  "n_splits": 3,
+  "total_samples": 8002,
+  "n_diseases": 500,
+  "n_features": 426,
+  "feature_breakdown": {
+    "hpo_features": 300,
+    "iba_panel_features": 13,
+    "clinvar_gene_features": 5,
+    "gene_attr_features": 100,
+    "babyseq_features": 5,
+    "summary_features": 3,
+    "total": 426
+  },
+  "novel_features": {
+    "iba_panel_activation": "13 clinical panel scores computed from HPO input",
+    "babyseq_evidence_grade": "evidence_score maps Definitive=4 Strong=3 Moderate=2 Limited=1",
+    "penetrance_weighted": "penetrance_score: HIGH=1.0, MODERATE=0.6, LOW=0.2, UNKNOWN=0.5",
+    "actionability_index": "evidence_score * penetrance * category_score / max, normalized 0-1"
+  }
+}

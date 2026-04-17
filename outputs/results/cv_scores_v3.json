@@ -1,0 +1,22 @@
+{
+  "cv_f1_macro_mean": 0.0,
+  "cv_f1_macro_std": 0.0,
+  "cv_scores": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "method": "GroupKFold (leave-disease-out)",
+  "n_splits": 3,
+  "train_test_split": "GroupShuffleSplit (disease-level)",
+  "disease_overlap": 0,
+  "total_samples": 10000,
+  "n_diseases": 500,
+  "n_features": 408,
+  "feature_breakdown": {
+    "hpo_features": 300,
+    "gene_attr_features": 100,
+    "clinvar_features": 5,
+    "summary_features": 3
+  }
+}

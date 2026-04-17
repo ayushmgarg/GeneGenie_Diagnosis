@@ -1,0 +1,52 @@
+[
+  {
+    "scenario": 1,
+    "name": "Infantile Spasms + Global Delay",
+    "n_hpo_input": 5,
+    "n_hpo_matched": 4,
+    "top_panel": "SEIZ",
+    "panel_hit": true,
+    "n_results": 5,
+    "newborn_alerts": 5
+  },
+  {
+    "scenario": 2,
+    "name": "Neonatal Cardiac + Short Stature + Facial",
+    "n_hpo_input": 6,
+    "n_hpo_matched": 6,
+    "top_panel": "CHD",
+    "panel_hit": true,
+    "n_results": 5,
+    "newborn_alerts": 4
+  },
+  {
+    "scenario": 3,
+    "name": "Skeletal Dysplasia + Respiratory",
+    "n_hpo_input": 5,
+    "n_hpo_matched": 3,
+    "top_panel": "SK",
+    "panel_hit": false,
+    "n_results": 5,
+    "newborn_alerts": 5
+  },
+  {
+    "scenario": 4,
+    "name": "Autism + Macrocephaly + Motor Delay",
+    "n_hpo_input": 5,
+    "n_hpo_matched": 5,
+    "top_panel": "HYPOTO",
+    "panel_hit": true,
+    "n_results": 5,
+    "newborn_alerts": 2
+  },
+  {
+    "scenario": 5,
+    "name": "Neonatal Liver Disease + Cholestasis",
+    "n_hpo_input": 5,
+    "n_hpo_matched": 4,
+    "top_panel": "IEM",
+    "panel_hit": true,
+    "n_results": 5,
+    "newborn_alerts": 4
+  }
+]

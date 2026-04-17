@@ -1,0 +1,1099 @@
+disease_name,n_genes,max_evidence_score,max_penetrance_score,max_category_score,max_actionability,is_pediatric,is_category_a,meets_ngsr,panel_SEIZ,panel_HYPOTO,panel_DERM,panel_HL,panel_CHD,panel_CM,panel_IEM,panel_REN,panel_PULM,panel_AN_TH,panel_SK,panel_COND,panel_THYR
+17-beta-hydroxysteroid dehydrogenase X deficiency,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+"2,4-Dienoyl-CoA reductase deficiency",1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2-Methylbutyryl-CoA dehydrogenase deficiency,1,3.0,0.2,1.0,0.05000000000000001,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0
+3 beta-hydroxysteroid dehydrogenase deficiency,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+3-M syndrome,2,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+3-Methylcrotonyl-CoA carboxylase 1 deficiency,1,4.0,0.6,2.0,0.39999999999999997,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+3-Methylcrotonyl-CoA carboxylase 2 deficiency,1,4.0,0.6,2.0,0.39999999999999997,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+3-hydroxy-3-methylglutaric aciduria,1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+3-hydroxyacyl-CoA dehydrogenase deficiency,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+"3-methylglutaconic aciduria, type I",1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0
+"3-methylglutaconic aciduria, type III",1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0
+"3-methylglutaconic aciduria, type V",1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+ACAD9 deficiency,1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0
+AICA-Ribosiduria,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ALS and Parkinson's disease,1,1.0,0.5,1.0,0.041666666666666664,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aarskog-Scott syndrome,1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0
+Abetalipoproteinaemia,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aceruloplasminaemia,1,4.0,1.0,2.0,0.6666666666666666,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Achalasia-addisonianism-alacrimia syndrome,1,4.0,1.0,3.0,1.0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Achondrogenesis 1B,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Achondrogenesis type 1A,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Achondroplasia,1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0
+Achromatopsia-3,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Acrodermatitis enteropathica,1,4.0,1.0,3.0,1.0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Acrodysostosis 2, with or without hormone resistance",1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Acyl-CoA dehydrogenase, short-chain, deficiency of",1,4.0,0.6,1.0,0.19999999999999998,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0
+Adenine phosphoribosyltransferase deficiency,1,4.0,0.6,1.0,0.19999999999999998,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Adenomatous polyposis coli,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Adenomatous polyposis coli, attenuated",1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Adenosine monophosphate deaminase deficiency,1,2.0,0.15,1.0,0.024999999999999998,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Adrenal hyperplasia, congenital, due to 11-beta-hydroxylase deficiency",1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Adrenal hyperplasia, congenital, due to 21-hydroxylase deficiency",1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Adrenal insufficiency, congenital, with 46XY sex reversal, partial or complete",1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Adrenocortical hyperplasia,1,2.0,0.15,1.0,0.024999999999999998,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Adrenoleukodystrophy,1,4.0,1.0,3.0,1.0,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0
+Afibrinogenaemia,3,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0
+"Agammaglobulinemia, X-linked 1",1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Age-related macular degeneration,1,2.0,0.4,1.0,0.06666666666666667,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Agenesis of the corpus callosum - intellectual deficit - coloboma - micrognathia,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Agenesis of the corpus callosum with peripheral neuropathy,1,3.0,1.0,3.0,0.75,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Agnathia-otocephaly complex,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aicardi-Goutieres syndrome,4,3.0,1.0,3.0,0.75,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1
+Aicardi-Goutieres syndrome ,1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1
+Aicardi-Goutieres syndrome 1,1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,0,0,0,1,0,0,1
+Alagille syndrome,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+"Albinism, oculocutaneous",1,4.0,1.0,3.0,1.0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Albinism, oculocutaneous 1",1,4.0,1.0,3.0,1.0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Aldolase A deficiency,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Alexander disease,1,4.0,1.0,3.0,1.0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Alkaptonuria,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Allan-Herndon-Dudley syndrome,1,3.0,1.0,3.0,0.75,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1
+Alpha-methylacetoacetic aciduria,1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+Alpha-methylacyl-CoA racemase deficiency,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+Alpha-thalassemia/mental retardation syndrome,1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0
+Alport syndrome,3,4.0,1.0,3.0,1.0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0
+Alstrom syndrome,1,4.0,1.0,3.0,1.0,1,1,1,1,0,1,1,0,0,0,1,0,0,0,0,0
+Alveolar capillary dysplasia with misalignment of pulmonary veins,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,1,0,0,1,1,0,0,0,0
+"Alzheimer disease 1, familial",1,4.0,1.0,1.0,0.3333333333333333,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Alzheimer disease, type 3",1,4.0,1.0,1.0,0.3333333333333333,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Alzheimer disease, type 4",1,3.0,1.0,1.0,0.25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Amegakaryocytic thrombocytopaenia, congenital",1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+Amelogenesis imperfecta,1,4.0,1.0,3.0,1.0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Amish infantile epilepsy syndrome,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+"Amyloidosis, hereditary, transthyretin-related",1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+"Amyloidosis, primary cutaneous",1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Amyloidosis, systemic",1,2.0,0.85,1.0,0.14166666666666666,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Amyotrophic lateral sclerosis,4,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Amyotrophic lateral sclerosis type 10,1,3.0,1.0,1.0,0.25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Amyotrophy, hereditary neuralgic",1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Analbuminemia,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Andersen cardiodysrhythmic periodic paralysis,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+Androgen insensitivity,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Anemia, congenital dyserythropoietic, type I",1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Anemia, dyserythropoietic congenital, type IV",1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Anemia, hypochromic microcytic",1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Anemia, sideroblastic, X-linked",1,4.0,1.0,3.0,1.0,1,1,1,0,1,0,0,0,0,1,0,0,1,0,0,0
+"Anemia, sideroblastic, pyridoxine-refractory, autosomal recessive",1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+Aniridia,1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Antitrypsin alpha 1 deficiency,1,4.0,0.2,1.0,0.06666666666666667,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Aortic aneurysm, familial thoracic",1,4.0,0.6,2.0,0.39999999999999997,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Aortic aneurysm, familial thoracic 4",1,3.0,0.6,2.0,0.3,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+"Aortic aneurysm, familial thoracic 7",1,2.0,0.4,2.0,0.13333333333333333,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+Aortic valve disease,1,2.0,0.15,1.0,0.024999999999999998,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Apert syndrome,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Apolipoprotein B deficiency,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arginase deficiency,1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+Argininosuccinic aciduria,1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+Aromatic L-amino acid decarboxylase deficiency,1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Arrhythmogenic right ventricular cardiomyopathy,2,4.0,0.6,2.0,0.39999999999999997,1,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0
+Arrhythmogenic right ventricular dysplasia,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Arrhythmogenic right ventricular dysplasia 12,1,3.0,0.6,2.0,0.3,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0
+Arrhythmogenic right ventricular dysplasia 2,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0
+Arrhythmogenic right ventricular dysplasia 5,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0
+Arrhythmogenic right ventricular dysplasia 9,1,4.0,0.6,2.0,0.39999999999999997,1,0,1,0,1,0,0,0,1,0,0,0,0,0,1,0
+Arrhythmogenic right ventricular dysplasia/cardiomyopathy,1,4.0,0.6,2.0,0.39999999999999997,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0
+"Arterial calcification, generalized, of infancy, 1",1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Arterial tortuosity syndrome,1,4.0,1.0,3.0,1.0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Arthrogryposis multiplex congenita, distal",1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Arthrogryposis renal dysfunction cholestasis syndrome,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+"Arthrogryposis, distal",1,4.0,1.0,3.0,1.0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Arthrogryposis, distal, type 5",1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Arthrogryposis, renal dysfunction and cholestasis",1,3.0,1.0,3.0,0.75,1,1,1,0,1,1,0,0,0,0,1,0,0,0,0,0
+"Arthyrgryposis, distal",1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Arts syndrome,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0
+Aspartylglucosaminuria,1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+Asphyxiating thoracic dystrophy 2,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+Ataxia with isolated vitamin E deficiency,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ataxia, early-onset, with oculomotor apraxia and hypoalbuminemia",1,4.0,1.0,3.0,1.0,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0
+Ataxia-ocular apraxia 2,1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Ataxia-telangiectasia,1,4.0,1.0,3.0,1.0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Athabaskan brainstem dysgenesis syndrome,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Atrial fibrillation,8,3.0,1.0,2.0,0.5,1,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0
+"Atrial fibrillation, familial",1,1.0,0.5,1.0,0.041666666666666664,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0
+Atrial septal defect,2,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0
+Autism,4,3.0,0.6,1.0,0.15,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Autism spectrum disorder,3,2.0,0.5,1.0,0.06666666666666667,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Autoimmune lymphoproliferative syndrome II,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Autoimmune polyendocrinopathy syndrome , type I, with or without reversible metaphyseal dysplasia",1,4.0,1.0,3.0,1.0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Axenfeld-Rieger syndrome,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0
+Axonal neuropathy with neuromyotonia,1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Baller-Gerold syndrome,1,3.0,1.0,3.0,0.75,1,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0
+Bamforth-Lazarus syndrome,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+Bannayan-Riley-Ruvalcaba syndrome,1,4.0,1.0,3.0,1.0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Baraitser-Winter syndrome,2,3.0,1.0,3.0,0.75,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Bardet-Biedl syndrome,10,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Barth syndrome,1,4.0,1.0,3.0,1.0,1,1,1,0,1,0,0,0,1,1,0,0,0,0,0,1
+Bartter syndrome,2,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,0,1,0,0,0,1,0
+Bartter syndrome with sensorineural deafness,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0
+"Basal ganglia disease, biotin-responsive",1,3.0,1.0,3.0,0.75,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0
+Beare-Stevenson cutis gyrata syndrome,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Becker muscular dystrophy,1,4.0,1.0,3.0,1.0,1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0
+Beckwith-Wiedemann Syndrome,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Beckwith-Wiedemann syndrome,2,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+Berardinelli-Seip lipodystrophy,1,4.0,1.0,3.0,1.0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Beta-thalassemia,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+Bile acid amidation defect,2,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Bile acid synthesis defect, congenital, 2",1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bile acid synthesis defect, congenital, 4",1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+Biotinidase deficiency,1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+Birt-Hogg-Dube syndrome,1,4.0,1.0,3.0,1.0,1,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+Bloom syndrome,1,4.0,1.0,3.0,1.0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Borjeson-Forssman-Lehmann syndrome,1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Brachydactyly, type B1",1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Branchiooculofacial syndrome,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Branchiootorenal syndrome,3,4.0,1.0,3.0,1.0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0
+Breast and/or ovarian cancer,1,1.0,0.5,1.0,0.041666666666666664,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Breast cancer,1,4.0,0.6,1.0,0.19999999999999998,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Breast cancer, susceptibility to",1,3.0,0.2,1.0,0.05000000000000001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Breast-ovarian cancer, familial, 1",1,4.0,1.0,1.0,0.3333333333333333,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Breast-ovarian cancer, familial, 2",1,4.0,0.6,1.0,0.19999999999999998,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Brittle cornea syndrome,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brody myopathy,1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Bruck syndrome,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Brugada syndrome,11,4.0,0.6,2.0,0.39999999999999997,1,0,1,1,0,0,0,0,1,0,0,0,0,0,1,0
+C syndrome,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+CARASIL syndrome,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+CATSHL syndrome,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+CDG syndrome type IIa,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+CDG syndrome type IId,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+CDG syndrome type IIf,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+CHARGE syndrome,1,4.0,1.0,3.0,1.0,1,1,1,0,1,0,1,1,0,0,0,0,0,0,0,0
+CHILD syndrome,1,3.0,1.0,3.0,0.75,1,1,1,1,0,1,0,0,0,0,0,0,0,1,0,0
+CK syndrome,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0
+Caffey disease,1,3.0,0.6,1.0,0.15,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0
+Campomelic dysplasia,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Camurati-Engelmann disease,1,3.0,0.6,1.0,0.15,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Canavan disease,1,4.0,1.0,3.0,1.0,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0
+Capillary malformation-arteriovenous malformation,1,3.0,1.0,3.0,0.75,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+Carbamoylphosphate synthetase I deficiency,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0
+Cardiac atrioventricular septal defect,1,2.0,0.15,1.0,0.024999999999999998,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Cardiac conduction disease,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+"Cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency",1,3.0,1.0,3.0,0.75,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0
+Cardiofaciocutaneous syndrome,3,4.0,1.0,3.0,1.0,1,1,1,1,0,1,0,1,0,0,0,0,1,0,0,0
+"Cardiomyopathy, dilated",28,4.0,0.6,2.0,0.39999999999999997,1,0,1,0,1,1,0,1,1,0,0,0,0,0,1,0
+"Cardiomyopathy, dilated ",1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"Cardiomyopathy, dilated, 1DD",1,3.0,0.6,2.0,0.3,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+"Cardiomyopathy, dilated, 1M",1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"Cardiomyopathy, dilated, 2B",1,1.0,0.5,1.0,0.041666666666666664,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"Cardiomyopathy, familial hypertrophic",8,4.0,0.6,2.0,0.39999999999999997,1,0,1,0,1,0,0,1,1,0,0,0,0,0,1,0
+"Cardiomyopathy, familial hypertrophic, 10",1,3.0,0.6,2.0,0.3,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+"Cardiomyopathy, familial hypertrophic, 12",1,2.0,0.4,2.0,0.13333333333333333,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+"Cardiomyopathy, familial hypertrophic, 8",1,3.0,0.6,2.0,0.3,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+"Cardiomyopathy, hypertrophic",9,3.0,0.6,2.0,0.3,1,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0
+"Cardiovascular malformation, congenital",1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Carney complex,1,4.0,1.0,3.0,1.0,1,1,1,0,0,1,0,0,0,0,0,0,0,1,0,1
+"Carnitine deficiency, systemic primary",1,4.0,1.0,3.0,1.0,1,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0
+Carnitine palmitoyltransferase 2 deficiency,1,4.0,1.0,3.0,1.0,1,1,1,1,1,0,0,0,0,1,0,0,0,0,1,0
+Carnitine palmitoyltransferase I deficiency,1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0
+Carnitine-acylcarnitine translocase deficiency,1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,1,0,0,0,0,1,0
+Carpenter syndrome,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cartilage-hair hypoplasia,1,3.0,1.0,3.0,0.75,1,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0
+"Cataract, juvenile with microcornea and renal glucosuria",1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Catecholaminergic polymorphic ventricular tachycardia,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+Caveolinopathy,1,4.0,1.0,3.0,1.0,1,1,1,0,1,0,0,0,1,0,0,0,0,0,1,0
+Cenani-Lenz syndactyly syndrome,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,1
+Central core disease,1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Central hypothyroidism and testicular enlargement,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Central hypoventilation syndrome,3,4.0,0.6,2.0,0.39999999999999997,1,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0
+Centronuclear myopathy,2,4.0,1.0,3.0,1.0,1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0
+Centronuclear myopathy with dilated cardiomyopathy,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Cerebellar hypoplasia and mental retardation with or without quadrupedal locomotion 1,1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Cerebellar-retinal degeneration, infantile",1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+Cerebral arteriopathy with subcortical infarcts and leukoencephalopathy,1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Cerebral dysgenesis, neuropathy, ichthyosis, and palmoplantar keratoderma syndrome",1,2.0,0.85,1.0,0.14166666666666666,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Cerebrotendinous xanthomatosis,1,4.0,1.0,3.0,1.0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+"Ceroid lipofuscinosis, neuronal",1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+"Ceroid lipofuscinosis, neuronal, 10",1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+"Ceroid lipofuscinosis, neuronal, 3",1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+"Ceroid lipofuscinosis, neuronal, 5",1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+"Ceroid lipofuscinosis, neuronal, 6",1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+"Ceroid lipofuscinosis, neuronal, 8",1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+Char syndrome,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+Charcot-Marie-Tooth disease,17,4.0,1.0,3.0,1.0,1,1,1,0,1,0,1,0,1,1,1,0,0,1,1,0
+"Charcot-Marie-Tooth disease, axonal, type 2L",1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Charcot-Marie-Tooth disease, axonal, type 2M",1,4.0,1.0,3.0,1.0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Charcot-Marie-Tooth disease, recessive intermediate",1,2.0,0.85,1.0,0.14166666666666666,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Charcot-Marie-Tooth neuropathy,1,4.0,1.0,3.0,1.0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Chediak-Higashi syndrome,1,4.0,1.0,3.0,1.0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Cherubism,1,3.0,0.6,1.0,0.15,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"Chloride diarrhea, congenital, Finnish type",1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+"Cholestasis, infantile",1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cholestasis, progressive familial intrahepatic 1",1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cholestasis, progressive familial intrahepatic 2",1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cholestasis, progressive familial intrahepatic 3",1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cholestasis, severe",1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Chondrodysplasia punctata, X-linked recessive",1,3.0,0.6,1.0,0.15,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Choreoacanthocytosis,1,4.0,1.0,3.0,1.0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+"Choreoathetosis, hypothyroidism, and neonatal respiratory distress",1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1
+Choroideremia,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Christianson syndrome,1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Chronic granulomatous disease,5,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0
+Chudley-McCullough syndrome,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+"Ciliary dyskinesia, primary",3,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Cirrhosis, cryptogenic",2,2.0,0.15,1.0,0.024999999999999998,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Citrullinemia,2,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+Cleft lip / palate,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cleidocranial dysostosis,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Coats plus syndrome,1,3.0,1.0,3.0,0.75,1,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0
+Cockayne syndrome,2,4.0,1.0,3.0,1.0,1,1,1,1,0,1,0,0,0,0,0,0,0,1,0,0
+"Coenzyme Q10 deficiency, primary, 1",1,1.0,0.5,1.0,0.041666666666666664,1,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0
+Coffin-Lowry syndrome,1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Coffin-Siris syndrome,2,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Cohen syndrome,1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Combined malonic and methylmalonic aciduria,1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+Combined oxidative phosphorylation deficiency,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Combined oxidative phosphorylation deficiency 1,1,3.0,1.0,3.0,0.75,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0
+Complement factor D deficiency,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Complex 3 deficiency,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Congenital adrenal hypoplasia,1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Congenital alopecia with T-cell immunodeficiency,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Congenital brain dysgenesis due to glutamine synthetase deficiency,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Congenital cataracts - facial dysmorphism - neuropathy,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Congenital cataracts, hearing loss and low serum copper and ceruloplasmin",1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Congenital central hypoventilation,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Congenital disorder of glycosylation,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Congenital disorder of glycosylation 1b,1,3.0,1.0,3.0,0.75,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Congenital disorder of glycosylation 2c,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Congenital disorder of glycosylation type 1P,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+"Congenital disorder of glycosylation, type IIe",1,2.0,0.85,1.0,0.14166666666666666,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+"Congenital disorder of glycosylation, type IIi",1,2.0,0.85,1.0,0.14166666666666666,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+"Congenital disorder of glycosylation, type IIj",1,1.0,0.5,1.0,0.041666666666666664,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+"Congenital disorder of glycosylation, type Ia",1,4.0,1.0,3.0,1.0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+"Congenital disorder of glycosylation, type Ic",1,3.0,1.0,3.0,0.75,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+"Congenital disorder of glycosylation, type Id",1,3.0,1.0,3.0,0.75,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+"Congenital disorder of glycosylation, type Ie",1,2.0,0.85,1.0,0.14166666666666666,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+"Congenital disorder of glycosylation, type If",1,2.0,0.85,1.0,0.14166666666666666,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+"Congenital disorder of glycosylation, type Ig",1,3.0,1.0,3.0,0.75,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+"Congenital disorder of glycosylation, type Ih",1,3.0,1.0,3.0,0.75,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0
+"Congenital disorder of glycosylation, type Ii",1,1.0,0.5,1.0,0.041666666666666664,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+"Congenital disorder of glycosylation, type Ij",1,3.0,1.0,3.0,0.75,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+"Congenital disorder of glycosylation, type Ik",1,3.0,1.0,3.0,0.75,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+"Congenital disorder of glycosylation, type Il",1,2.0,0.85,1.0,0.14166666666666666,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+"Congenital disorder of glycosylation, type Im",1,2.0,0.85,1.0,0.14166666666666666,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0
+"Congenital disorder of glycosylation, type Ir",1,1.0,0.5,1.0,0.041666666666666664,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Congenital dyserythropoietic anemia type 3,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Congenital dyserythropoietic anemia type I,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Congenital fiber type disproportion,2,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,1,0,0,1,1,0,0,0,0,0,1,0
+Congenital fiber-type disproportion myopathy,1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Congenital heart defects,5,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,1,0,0,0,1,0,0,1,0
+Congenital heart disease,15,4.0,0.6,2.0,0.39999999999999997,1,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1
+"Congenital heart disease, nonsyndromic",1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Congenital insensitivity to pain with anhidrosis ,1,4.0,1.0,3.0,1.0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+"Congenital lipoid adrenal hyperplasia,",1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Congenital muscular dystrophy with integrin deficiency,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Congenital muscular dystrophy-dystroglycanopathy with brain and eye anomalies,1,4.0,1.0,3.0,1.0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Congenital myasthenic syndrome,9,4.0,1.0,3.0,1.0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Congenital myasthenic syndrome, limb-girdle",1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Congenital myopathy with fiber type disproportion,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Congenital myopathy with prominent internal nuclei and atypical cores,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Congenital nephrotic syndrome, Finnish type",1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Congenital short-bowel syndrome,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Congenital spinal muscular atrophy,1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Contractural arachnodactyly,1,3.0,1.0,3.0,0.75,1,1,1,0,1,1,0,1,0,0,0,0,0,1,0,0
+Coproporphyria,1,4.0,0.6,1.0,0.19999999999999998,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Corneal endothelial dystrophy,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Cornelia de Lange syndrome,2,4.0,1.0,3.0,1.0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0
+"Cornelia de Lange syndrome-like features, ocular hypertelorism & large fontanelle",1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Costello syndrome,1,4.0,1.0,3.0,1.0,1,1,1,1,1,1,0,1,0,1,0,0,0,0,0,0
+Cowchock syndrome,1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,1,0,0,1,0,0,0,0,0,0
+Cowden disease,1,4.0,1.0,3.0,1.0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Cranioectodermal dysplasia,3,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+Craniometaphyseal dysplasia,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0
+"Creatine deficiency syndrome, X-linked",1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Crigler-Najjar syndrome ,2,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Crisponi syndrome,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Crouzon syndrome,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Crouzon syndrome with acanthosis nigricans,1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0
+Cutis laxa,1,3.0,1.0,3.0,0.75,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0
+"Cutis laxa, autosomal recessive, type IB",1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+"Cutis laxa, autosomal recessive, type IC",1,3.0,1.0,3.0,0.75,1,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+"Cutis laxa, autosomal recessive, type IIA",1,3.0,1.0,3.0,0.75,1,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0
+"Cutis laxa, autosomal recessive, type IIIA",1,3.0,1.0,3.0,0.75,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Cystic fibrosis,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+Cystinosis,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,1,1,0,0,0,0,1
+Cystinuria,2,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+D-2-hydroxyglutaric aciduria,1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+D-bifunctional protein deficiency,1,3.0,1.0,3.0,0.75,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+Danon disease,1,4.0,1.0,3.0,1.0,1,1,1,0,1,0,0,0,1,1,0,0,0,0,0,0
+Deafness,4,4.0,1.0,3.0,1.0,1,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+Deafness - encephaloneuropathy - obesity - valvulopathy Neonatal,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0
+Deafness and palmoplantar keratoderma,1,4.0,1.0,3.0,1.0,1,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+"Deafness, X-linked",2,3.0,1.0,3.0,0.75,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+"Deafness, autosomal dominant",5,3.0,1.0,3.0,0.75,1,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+"Deafness, autosomal dominant ",1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+"Deafness, autosomal recessive",19,4.0,1.0,3.0,1.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+"Deafness, autosomal recessive ",1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Deafness, congenital with inner ear agenesis, microtia, and microdontia",1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+"Deafness, non-syndromic, autosomal dominant",1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+"Deafness, onychodystrophy, osteodystrophy, mental retardation, and seizures syndrome",1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+"Dementia, frontotemporal, with or without parkinsonism",1,3.0,0.6,1.0,0.15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dent disease,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0
+Dentatorubral-pallidoluysian atrophy 1,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Denys-Drash syndrome,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Desmosterolosis,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+"Developmental delay, intellectual disability, epilepsy",1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Developmental delay, multifocal epilepsy & abnormal liver function",1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+DiGeorge syndrome,1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,1,0,0,0,0,0,1,0,0
+"Diabetes insipidus, nephrogenic",1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0
+"Diabetes mellitus, neonatal, with congenital hypothyroidism",1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+"Diabetes mellitus, noninsulin dependent",1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Diabetes, neonatal, with intestinal atresia",1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Diabetes, type 2",1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Diamond-Blackfan anemia,10,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Diarrhea 4, malabsorptive, congenital",1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dihydropteridine reductase deficiency,1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+Dihydropyrimidine dehydrogenase deficiency,1,4.0,0.6,1.0,0.19999999999999998,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Dilated cardiomyopathy,1,4.0,0.6,2.0,0.39999999999999997,1,0,1,0,1,0,0,0,1,0,0,0,0,1,1,0
+Disordered steroidogenesis with and without Antley-Bixler syndrome,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Disorders of sex development with cleft palate,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Distal arthrogryposis syndrome 2b,1,4.0,1.0,3.0,1.0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Distal arthrogryposis type I,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Donnai-Barrow syndrome,1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,1,0,0,1,0,0,0,0,0
+Dopamine beta-hydroxylase deficiency,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dravet syndrome,1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Dubin-Johnson syndrome,1,4.0,0.6,1.0,0.19999999999999998,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Duchenne muscular dystrophy,1,4.0,1.0,3.0,1.0,1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0
+"Dysautonomia, familial",1,4.0,1.0,3.0,1.0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Dyschromatosis symmetrica hereditaria,1,4.0,1.0,3.0,1.0,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1
+Dyserythropoietic anemia with thrombocytopenia,1,3.0,1.0,3.0,0.75,1,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0
+Dyskeratosis congenita,7,4.0,0.85,2.0,0.39999999999999997,1,0,1,0,0,1,0,0,0,0,0,1,1,0,0,0
+"Dystonia, dopa-responsive",1,4.0,0.6,2.0,0.39999999999999997,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+Early myoclonic encephalopathy,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Early-onset epileptic encephalopathy,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Ectodermal dysplasia,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ectodermal dysplasia, hypohidrotic",3,4.0,1.0,3.0,1.0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Ehlers-Danlos syndrome,1,3.0,1.0,3.0,0.75,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Ehlers-Danlos syndrome VIIc,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ehlers-Danlos syndrome due to tenascin X deficiency,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+"Ehlers-Danlos syndrome, kyphoscoliotic type",1,3.0,1.0,3.0,0.75,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Ehlers-Danlos syndrome, type I",1,4.0,1.0,3.0,1.0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Ehlers-Danlos syndrome, type IV",1,4.0,1.0,3.0,1.0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Elliptocytosis,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+Ellis-van Creveld syndrome,2,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Emery-Dreifuss muscular dystrophy,1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Emery-Dreifuss muscular dystrophy 2,1,4.0,1.0,3.0,1.0,1,1,1,0,1,0,0,0,1,0,0,0,0,1,1,0
+Epidermodysplasia verruciformi,1,1.0,0.5,1.0,0.041666666666666664,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Epidermolysis bullosa dystrophica,1,4.0,1.0,3.0,1.0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Epidermolysis bullosa simplex,3,4.0,1.0,3.0,1.0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+"Epidermolysis bullosa, junctional",3,4.0,1.0,3.0,1.0,1,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+"Epidermolysis bullosa, junctional, non-Herlitz type",1,4.0,1.0,3.0,1.0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Epidermolysis bullosa, junctional, with pyloric atresia",1,4.0,1.0,3.0,1.0,1,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0
+"Epidermolysis bullosa, junctional, with pyloric stenosis",1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Epidermolysis bullosa, lethal acantholytic",1,4.0,1.0,3.0,1.0,1,1,1,0,0,1,0,0,1,0,0,0,0,0,1,0
+Epilepsy,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Epilepsy & mental retardation,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Epilepsy with neurodevelopmental defects,1,3.0,0.6,1.0,0.15,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Epilepsy, benign neonatal",2,4.0,0.6,1.0,0.19999999999999998,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Epilepsy, childhood absence with febrile seizure",1,4.0,0.6,1.0,0.19999999999999998,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Epilepsy, familial temporal lobe, 1",1,4.0,0.6,1.0,0.19999999999999998,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Epilepsy, idiopathic generalised",1,3.0,0.6,1.0,0.15,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Epilepsy, photosensitive generalised",1,1.0,0.5,1.0,0.041666666666666664,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Epilepsy, progressive myoclonic",1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Epilepsy, progressive myoclonic 1A",1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Epilepsy, progressive myoclonic 1B",1,1.0,0.5,1.0,0.041666666666666664,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Epilepsy, progressive myoclonic 2A (Lafora)",1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Epileptic encephalopathy,2,1.0,0.5,1.0,0.041666666666666664,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Epileptic encephalopathy, early infantile",1,3.0,1.0,3.0,0.75,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+"Epileptic encephalopathy, early infantile, 2",1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Epileptic encephalopathy, early-onset",1,2.0,0.85,1.0,0.14166666666666666,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+"Epileptic encephalopathy, neonatal",1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Episodic ataxia type 1,1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Episodic ataxia, type 2",1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Episodic pain syndrome,1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Erythrocytosis due to bisphosphoglycerate mutase deficiency,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Ethylmalonic encephalopathy,1,3.0,1.0,3.0,0.75,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0
+Exfoliative ichthyosis,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Exocrine pancreatic insufficiency, dyserythropoietic anemia, and calvarial hyperostosis",1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Exostoses, multiple, type 1",1,4.0,1.0,3.0,1.0,1,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0
+"Exostoses, multiple, type 2",1,4.0,1.0,3.0,1.0,1,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0
+Fabry disease,1,4.0,1.0,3.0,1.0,1,1,1,0,1,0,0,0,1,1,1,0,0,0,0,0
+"Factor V and Factor VIII deficiency, combined",1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Factor XI deficiency,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+Familial atrial fibrillation,1,2.0,0.4,1.0,0.06666666666666667,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+Familial hypertrophic cardiomyopathy,2,4.0,0.6,2.0,0.39999999999999997,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+Fanconi anaemia,10,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Fanconi anemia, complementation group D1",1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+Febrile seizures,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Feingold syndrome,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0
+Fibrodysplasia ossificans progressiva,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+"Fibrosis of extraocular muscles, congenital",2,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Floating-Harbor syndrome,1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Focal and segmental glomerulosclerosis,1,1.0,0.5,1.0,0.041666666666666664,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Focal dermal hypoplasia,1,4.0,1.0,3.0,1.0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Focal segmental glomerulosclerosis,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"Folate malabsorption, hereditary",1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0
+Fraser syndrome,2,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Frasier syndrome,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Friedreich ataxia,1,4.0,1.0,3.0,1.0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Fructose intolerance,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fucosidosis,1,3.0,1.0,3.0,0.75,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0
+Fumarase deficiency,1,4.0,1.0,3.0,1.0,1,1,1,1,1,1,0,0,0,1,0,0,0,0,0,0
+GABA-transaminase deficiency,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+GLUT1 deficiency syndrome 1,1,4.0,1.0,3.0,1.0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Galactokinase deficiency with cataracts,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+Galactosaemia,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+Gangliosidosis GM1,1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,1,1,0,0,1,0,0
+Gastric cancer,1,4.0,0.6,2.0,0.39999999999999997,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gaucher disease 1,1,4.0,1.0,3.0,1.0,1,1,1,0,1,0,0,0,0,1,0,0,1,0,0,0
+Geleophysic dysplasia 1,1,3.0,1.0,3.0,0.75,1,1,1,0,0,1,0,0,0,1,0,0,0,1,0,0
+Genitopatellar syndrome,1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1
+Giant axonal neuropathy,1,4.0,1.0,3.0,1.0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Gitelman syndrome,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Glaucoma,1,1.0,0.5,1.0,0.041666666666666664,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Glomerulosclerosis, focal segmental, 1",1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+"Glomerulosclerosis, focal segmental, 3",1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Glucose-6-phosphate dehydrogenase deficiency,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0
+Glucosidase 1 deficiency,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Glutamate formiminotransferase deficiency,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Glutaric acidemia IIA,1,3.0,1.0,3.0,0.75,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0
+Glutaric acidemia IIB,1,3.0,1.0,3.0,0.75,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0
+Glutaric acidemia IIC,1,3.0,1.0,3.0,0.75,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0
+"Glutaricaciduria, type I",1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+Glutathione synthetase deficiency,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+Glycine encephalopathy,2,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Glycogen storage disease 0,1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Glycogen storage disease 7,1,4.0,1.0,3.0,1.0,1,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0
+Glycogen storage disease II,1,4.0,1.0,3.0,1.0,1,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0
+Glycogen storage disease IIIa,1,4.0,1.0,3.0,1.0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Glycogen storage disease IV,1,4.0,1.0,3.0,1.0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Glycogen storage disease Ia,1,4.0,1.0,3.0,1.0,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0
+Glycogen storage disease Ib,1,4.0,1.0,3.0,1.0,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0
+Glycogen storage disease VI,1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Glycogen storage disease XV,1,2.0,0.85,1.0,0.14166666666666666,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+"Glycogen storage disease of heart, lethal congenital",1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+Gnathodiaphyseal dysplasia,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+Goldberg-Shprintzen megacolon syndrome,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Greig cephalopolysyndactyly syndrome,1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0
+Griscelli syndrome,2,3.0,1.0,3.0,0.75,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Griscelli syndrome type 3,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Haemochromatosis,2,3.0,0.2,1.0,0.05000000000000001,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Haemolytic uraemic syndrome,9,4.0,0.6,1.0,0.19999999999999998,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+"Haemolytic uraemic syndrome, atypical",1,3.0,0.6,1.0,0.15,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+Hajdu-Cheney syndrome,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,1,0,0,1,0,0,1,0,0
+Hartnup disorder,1,4.0,0.2,1.0,0.06666666666666667,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+Hearing loss,13,3.0,1.0,3.0,0.75,1,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+"Hearing loss, autosomal dominant",1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"Hearing loss, non-syndromic, autosomal recessive",1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Hemiplegic migraine,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hemochromatosis,1,4.0,0.2,1.0,0.06666666666666667,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hemochromatosis type 3,1,3.0,0.6,1.0,0.15,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Hemolytic anemia due to adenylate kinase deficiency,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Hemolytic anemia due to gamma-glutamylcysteine synthetase deficiency,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Hemolytic anemia due to glutathione peroxidase deficiency,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hemolytic anemia due to hexokinase deficiency,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Hemolytic-uremic syndrome, atypical, susceptibility to",1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Hemophagocytic lymphohistiocytosis,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Hemophagocytic lymphohistiocytosis, familial, 2",1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0
+"Hemophagocytic lymphohistiocytosis, familial, 3",1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Hemophagocytic lymphohistiocytosis, familial, 4",1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Hemophilia A,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+Hemophilia B,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+Heparin cofactor 2 deficiency,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Hepatic failure, early onset, and neurologic disorder",1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+Hepatic venoocclusive disease with immunodeficiency,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+Hereditary Paraganglioma-Pheochromocytoma Syndromes,4,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Hereditary fibrosing poikiloderma with tendon contracture, myopathy, and pulmonary fibrosis",1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Hereditary motor and sensory neuropathy,1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Hermansky-Pudlak syndrome 1,1,4.0,1.0,3.0,1.0,1,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+Hermansky-Pudlak syndrome 2,1,3.0,1.0,3.0,0.75,1,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+Hermansky-Pudlak syndrome 3,1,3.0,1.0,3.0,0.75,1,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+Hermansky-Pudlak syndrome 4,1,4.0,1.0,3.0,1.0,1,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+Hermansky-Pudlak syndrome 5,1,3.0,1.0,3.0,0.75,1,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+Hermansky-Pudlak syndrome 6,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+Hermansky-Pudlak syndrome 7,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+Hermansky-Pudlak syndrome 8,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+Hermansky-pudlak syndrome 9,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+Heterotaxy,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+Hirschsprung disease,5,3.0,0.6,1.0,0.15,1,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0
+Holocarboxylase synthetase deficiency,1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0
+Holoprosencephaly,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Holoprosencephaly-2,1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Holoprosencephaly-3,1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0
+Holoprosencephaly-4,1,3.0,0.6,1.0,0.15,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Holoprosencephaly-5,1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Holoprosencephaly-9,1,2.0,0.4,1.0,0.06666666666666667,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Holt-Oram syndrome,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0
+Homocystinuria due to MTHFR deficiency,1,4.0,0.6,2.0,0.39999999999999997,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Homocystinuria, B6-responsive and nonresponsive types",1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+Hyaline fibromatosis syndrome,1,4.0,1.0,3.0,1.0,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+Hydatidiform mole,1,4.0,1.0,1.0,0.3333333333333333,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hydrocephalus,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Hydrolethalus syndrome,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hyper-IgE recurrent infection syndrome,1,4.0,1.0,3.0,1.0,1,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+Hyper-IgE syndrome,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Hyperbilirubinemia, Rotor type, digenic",2,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Hypercholanemia, familial",2,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Hypercholesterolemia,2,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hyperekplexia,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Hyperekplexia 2, autosomal recessive",1,2.0,0.85,1.0,0.14166666666666666,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Hyperekplexia 3,1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Hyperekplexia and epilepsy,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Hyperekplexia, hereditary 1, autosomal dominant or recessive",1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Hyperglycinaemia, non-ketotic",1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Hyperimmunoglobulin D and periodic fever syndrome,1,3.0,1.0,3.0,0.75,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Hyperinsulinemic hypoglycemia, familial",3,4.0,1.0,3.0,1.0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+"Hyperinsulinemic hypoglycemia, familial, 4",1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+Hyperinsulinism,2,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+"Hyperkalemic periodic paralysis, type 2",1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Hypermethioninemia due to adenosine kinase deficiency,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hyperornithinemia-hyperammonemia-homocitrullinemia syndrome,1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+"Hyperoxaluria, primary, type 1",1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+"Hyperoxaluria, primary, type II",1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+"Hyperphenylalaninemia, BH4-deficient, A",1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+"Hyperprolinemia, type I",1,2.0,0.4,1.0,0.06666666666666667,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Hyperprolinemia, type II",1,2.0,0.85,1.0,0.14166666666666666,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Hypertrichotic osteochondrodysplasia,1,3.0,1.0,3.0,0.75,1,1,1,0,0,1,0,0,1,0,0,0,0,0,1,0
+Hypertrophic cardiomyopathy & lactic acidosis,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Hypertrophic osteoarthropathy, primary, autosomal recessive 2",1,3.0,1.0,3.0,0.75,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Hypochondroplasia,1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0
+Hypogammaglobulinaemia,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"Hypoglycaemia, hyperinsulinaemic",1,4.0,0.6,1.0,0.19999999999999998,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Hypogonadism,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hypogonadotropic hypogonadism,2,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Hypogonadotropic hypogonadism, ataxia & dementia",1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hypokalaemic periodic paralysis,1,2.0,0.15,1.0,0.024999999999999998,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Hypokalemic periodic paralysis, type 2",1,3.0,0.6,1.0,0.15,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Hypomagnesemia 5, renal, with ocular involvement",1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Hypomyelination and congenital cataract,1,3.0,1.0,3.0,0.75,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+"Hypomyelination, global cerebral",1,1.0,0.5,1.0,0.041666666666666664,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+Hypoparathyroidism retardation dysmorphism syndrome,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Hypophosphatasia,1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0
+Hypophosphatemic rickets with hypercalciuria,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0
+"Hypophosphatemic rickets, AR",1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0
+"Hypothryoidism, congenital, nongoitrous 4",1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Hypothyroidism,2,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Hypothyroidism, congenital, due to thyroid dysgenesis or hypoplasia",1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,1
+"Hypothyroidism, congenital, nongoitrous, 6",1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Hypotonia - cystinuria syndrome,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Hypotrichosis,1,3.0,1.0,3.0,0.75,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Hypotrichosis-lymphedema-telangiectasia syndrome,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+IPEX syndrome,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1
+"Ichthyosis follicularis, alopecia & photophobia",1,3.0,1.0,3.0,0.75,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Ichthyosis hypotrichosis syndrome,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Ichthyosis prematurity syndrome,1,3.0,1.0,3.0,0.75,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Ichthyosis vulgaris,1,3.0,0.6,1.0,0.15,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Ichthyosis, X-linked",1,4.0,1.0,3.0,1.0,1,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0
+"Ichthyosis, autosomal recessive",1,3.0,1.0,3.0,0.75,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Ichthyosis, autosomal recessive congenital",1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Ichthyosis, congenital, autosomal recessive",5,4.0,1.0,3.0,1.0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Ichthyosis, leukocyte vacuoles, alopecia, and sclerosing cholangitis",1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Immunodeficiency, X-linked, with hyper-IgM",1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Immunodeficiency, combined, with intestinal atresias",1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Immunodeficiency-centromeric instability-facial anomalies syndrome 1,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Inclusion body myopathy,1,4.0,1.0,3.0,1.0,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0
+Inclusion body myopathy with early-onset paget disease and frontotemporal dementia,1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Incontinentia pigmenti 1,1,4.0,1.0,3.0,1.0,1,1,1,1,0,1,0,0,0,0,0,0,1,0,0,0
+Infantile liver failure syndrome,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+Infantile neuroaxonal dystrophy 1,1,3.0,1.0,3.0,0.75,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Infantile spasms,1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Infertility,1,1.0,0.5,1.0,0.041666666666666664,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Inflammatory bowel disease,2,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Insulin-like growth factor deficiency,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Intellectual disability,1,3.0,1.0,3.0,0.75,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Interstitial lung disease,1,4.0,0.6,1.0,0.19999999999999998,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Interstitial lung disease, nephrotic syndrome, and epidermolysis bullosa, congenital",1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0
+Isobutyryl-CoA dehydrogenase deficiency,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+Isovaleric acidemia,1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+Jackson-Weiss syndrome,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Jervell and Lange-Nielsen syndrome,2,4.0,1.0,3.0,1.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,1,1
+Johanson-Blizzard syndrome,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Joubert syndrome,10,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,1,0,0,1,0,0
+Joubert syndrome-3,1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0
+Juvenile polyposis syndrome,2,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0
+Kabuki syndrome 1,1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0
+Kabuki syndrome 2,1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Kallmann syndrome,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Kallmann syndrome 1,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Keratoconus,1,2.0,0.4,1.0,0.06666666666666667,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Keutel syndrome,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Koolen-De Vries syndrome,1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1
+Krabbe disease,1,4.0,1.0,3.0,1.0,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0
+LADD syndrome,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+LEOPARD syndrome,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,1,0,1,0,1,0,0,0,0,1,0,0,0
+Laing distal myopathy,1,4.0,1.0,3.0,1.0,1,1,1,0,1,0,0,1,1,0,0,0,0,0,1,0
+Larsen syndrome,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+Lathosterolosis,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Leber congenital amaurosis with myopathy,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Leber hereditary optic neuropathy,3,4.0,0.6,1.0,0.19999999999999998,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Left ventricular noncompaction,4,3.0,0.6,2.0,0.3,1,0,1,0,1,0,0,1,1,0,0,0,0,0,1,0
+Left ventricular noncompaction 1,1,1.0,0.5,1.0,0.041666666666666664,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0
+Left-right axis malformation,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Legius syndrome,1,4.0,1.0,3.0,1.0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+Leigh syndrome,1,3.0,1.0,3.0,0.75,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0
+Leigh syndrome with nephropathy and COQ10 deficiency,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0
+"Leigh syndrome, due to COX deficiency",1,4.0,1.0,3.0,1.0,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0
+Leiomyomatosis and renal cell cancer,1,4.0,0.6,1.0,0.19999999999999998,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0
+Lennox-Gastaut syndrome,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Leprechaunism,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lesch-Nyhan syndrome 1,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Lethal arthrogryposis with anterior horn cell disease,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Lethal congenital contractural syndrome 2,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Leukoencephalopathy - dystonia - motor neuropathy,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Leukoencephalopathy with vanishing white matter,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+"Leukoencephalopathy, and ovarian failure in females",1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Leukoencephalopathy, diffuse hereditary, with spheroids",1,4.0,1.0,1.0,0.3333333333333333,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Li-Fraumeni syndrome,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liddle syndrome,1,4.0,0.6,1.0,0.19999999999999998,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+"Lipodystrophy, congenital generalized, type 4",1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+"Lipodystrophy, partial",1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lissencephaly syndrome,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Lissencephaly, X-linked",1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Lissencephaly, X-linked 2",1,4.0,1.0,3.0,1.0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+"Liver failure, transient infantile",1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0
+Loeys-Dietz syndrome,3,4.0,1.0,3.0,1.0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Long QT syndrome,5,4.0,0.85,2.0,0.39999999999999997,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+Long QT syndrome ,1,4.0,0.6,2.0,0.39999999999999997,1,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0
+Long QT syndrome-1,1,4.0,0.6,2.0,0.39999999999999997,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,1
+Long QT syndrome-2,1,4.0,0.6,2.0,0.39999999999999997,1,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0
+Long QT syndrome-5,1,4.0,0.6,2.0,0.39999999999999997,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0
+Long QT syndrome-6,1,3.0,0.6,2.0,0.3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+Long QT syndrome-9,1,1.0,0.5,1.0,0.041666666666666664,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0
+Lowe oculocerebrorenal syndrome,1,4.0,1.0,3.0,1.0,1,1,1,1,1,1,0,0,0,1,1,0,0,0,0,0
+"Lymphoedema, primary",1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lymphoproliferative syndrome,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lynch syndrome,5,4.0,0.6,1.0,0.19999999999999998,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lysinuric protein intolerance,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,1,1,0,1,0,0,0
+MUTYH-associated polyposis,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Macrocephaly, neurodevelopmental delay, and seizures",1,2.0,0.85,1.0,0.14166666666666666,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Macrothrombocytopenia,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+Macrothrombocytopenia and progressive sensorineural deafness,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,1,0,0,0,1,0,1,0,0,0
+Majeed syndrome,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Malignant hyperthermia,2,4.0,0.6,2.0,0.39999999999999997,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Malonyl-CoA decarboxylase deficiency,1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+Mandibulofacial dysostosis with microcephaly,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+Manitoba oculotrichoanal syndrome,1,3.0,0.6,1.0,0.15,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"Mannosidosis, alpha",1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+Maple syrup urine disease,3,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+"Maple syrup urine disease, type III",1,3.0,1.0,3.0,0.75,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0
+Marfan's syndrome,1,4.0,1.0,3.0,1.0,1,1,1,0,1,1,0,0,0,0,0,1,0,1,0,0
+Marinesco-Sjogren syndrome,1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Meckel syndrome,5,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,1,0,0,1,0,0
+Meconium ileus,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mediterranean fever, familial",1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Medium chain acyl CoA dehydrogenase deficiency,1,4.0,1.0,3.0,1.0,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0
+"Medullary thyroid carcinoma, familial",1,1.0,0.5,1.0,0.041666666666666664,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Medulloblastoma,1,1.0,0.5,1.0,0.041666666666666664,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Megacystis-microcolon-intestinal hypoperistalsis syndrome,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Megalencephalic leukoencephalopathy,1,4.0,1.0,3.0,1.0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+"Megaloblastic anemia-1, Finnish type",1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0
+"Megaloblastic anemia-1, Norwegian type",1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+Meier-Gorlin syndrome,4,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0
+Melanoma,1,4.0,0.6,2.0,0.39999999999999997,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Menkes syndrome,1,4.0,1.0,3.0,1.0,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0
+Mental retardation,2,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mental retardation and microcephaly with pontine and cerebellar hypoplasia,1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0
+"Mental retardation syndrome, X-linked",1,3.0,1.0,3.0,0.75,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+Metachromatic leukodystrophy,2,4.0,1.0,3.0,1.0,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0
+Metaphyseal chondrodysplasia,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0
+Methionine adenosyltransferase deficiency,1,3.0,0.6,1.0,0.15,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Methylmalonic aciduria and homocystinuria,3,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+"Methylmalonic aciduria and homocystinuria, cblC type",1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+"Methylmalonic aciduria and homocystinuria, cblD type",1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+"Methylmalonic aciduria and homocystinuria, cblJ type",1,2.0,0.85,1.0,0.14166666666666666,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+"Methylmalonic aciduria, mut(0) type",1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+"Methylmalonic aciduria, vitamin B12-responsive",1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+"Methylmalonic aciduria, vitamin B12-responsive, due to defect in synthesis of adenosylcobalamin, cblB complementation type",1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+Methylmalonyl-CoA epimerase deficiency,1,2.0,0.4,1.0,0.06666666666666667,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+Microcephalic osteodysplastic primordial dwarfism type 2,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Microcephaly - seizures - developmental delay,1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Microcephaly 1, primary, autosomal recessive",1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Microcephaly 2, primary, autosomal recessive, with or without cortical malformations",1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Microcephaly 3, primary, autosomal recessive",1,2.0,0.85,1.0,0.14166666666666666,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Microcephaly, intellectual disability, cerebral atrophy & intractable seizures",1,2.0,0.85,1.0,0.14166666666666666,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Microphthalmia,1,2.0,0.4,1.0,0.06666666666666667,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+"Microphthalmia, syndromic",1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0
+Mitochondrial DNA depletion syndrome,4,4.0,1.0,3.0,1.0,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0
+Mitochondrial DNA depletion syndrome 5 (encephalomyopathic with methylmalonic aciduria),1,3.0,1.0,3.0,0.75,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0
+Mitochondrial DNA depletion syndrome 9 (encephalomyopathic type with methylmalonic aciduria),1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+"Mitochondrial DNA depletion syndrome, hepatic",1,3.0,1.0,3.0,0.75,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0
+Mitochondrial complex III deficiency,2,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+Mitochondrial respiratory chain disorder,2,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+Mitochondrial trifunctional protein deficiency,2,4.0,1.0,3.0,1.0,1,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0
+Miyoshi muscular dystrophy 1,1,4.0,1.0,3.0,1.0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Mohr-Tranebjaerg syndrome,1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,1,0,0,1,0,0,0,0,0,0
+Molybdenum cofactor deficiency,2,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Monocarboxylate transporter 1 deficiency,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Mowat-Wilson syndrome,1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Mucolipidosis II,1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,0,0,0,1,1,0,0
+Mucolipidosis III gamma,1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,0
+Mucolipidosis IV,1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+Mucopolysaccharidisis type IIIA (Sanfilippo A),1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+Mucopolysaccharidosis II,1,4.0,1.0,3.0,1.0,1,1,1,1,1,0,0,1,0,1,0,0,0,0,0,0
+Mucopolysaccharidosis IIIC,1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+Mucopolysaccharidosis IIId,1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+Mucopolysaccharidosis IVA,1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+Mucopolysaccharidosis Ih,1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,0
+Mucopolysaccharidosis VII,1,4.0,1.0,3.0,1.0,1,1,1,1,1,0,0,0,0,1,0,0,0,1,0,0
+Mucopolysaccharidosis type VI (Maroteaux-Lamy),1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+Muenke syndrome,1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0
+Mulibrey nanism syndrome,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Multicentric carpotarsal osteolysis syndrome,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0
+Multiminicore disease,1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Multiple anomalies,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Multiple endocrine neoplasia I,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Multiple endocrine neoplasia IIA,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0
+Multiple endocrine neoplasia IIB,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0
+"Multiple joint dislocations, short stature, craniofacial dysmorphism, and congenital heart defects",1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+Muscle-eye-brain disease,1,4.0,1.0,3.0,1.0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Muscular dystrophy,1,3.0,1.0,3.0,0.75,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+"Muscular dystrophy, Emery-Dreifuss",1,4.0,1.0,3.0,1.0,1,1,1,0,1,0,0,0,1,0,0,0,0,0,1,0
+"Muscular dystrophy, Fukuyama",1,4.0,1.0,3.0,1.0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+"Muscular dystrophy, congenital merosin-deficient",1,4.0,1.0,3.0,1.0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+"Muscular dystrophy, congenital, megaconial type",1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Muscular dystrophy, limb girdle",1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Muscular dystrophy, limb girdle 2I",1,4.0,1.0,3.0,1.0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+"Muscular dystrophy, limb-girdle, type 2A",1,4.0,1.0,3.0,1.0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Muscular dystrophy, limb-girdle, type 2B",1,4.0,1.0,3.0,1.0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Muscular dystrophy, limb-girdle, type 2C",1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Muscular dystrophy, limb-girdle, type 2D",1,4.0,1.0,3.0,1.0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Muscular dystrophy, limb-girdle, type 2E",1,4.0,1.0,3.0,1.0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Muscular dystrophy, limb-girdle, type 2F",1,4.0,1.0,3.0,1.0,1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0
+"Muscular dystrophy, limb-girdle, type 2G",1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0
+"Muscular dystrophy, limb-girdle, type 2H",1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0
+"Muscular dystrophy, limb-girdle, type 2L",1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0
+"Muscular dystrophy, limb-girdle, type IC,",1,4.0,1.0,3.0,1.0,1,1,1,0,1,0,0,0,1,0,0,0,0,0,1,0
+"Muscular dystrophy, rigid spine",1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies),1,3.0,1.0,3.0,0.75,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+"Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A, 7",1,3.0,1.0,3.0,0.75,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+"Muscular dystrophy-dystroglycanopathy (limb-girdle), type C, 1",1,3.0,1.0,3.0,0.75,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+"Muscular dystrophy-dystroglycanopathy (limb-girdle), type C, 2",1,3.0,1.0,3.0,0.75,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+"Muscular dystrophy-dystroglycanopathy (limb-girdle), type C, 3",1,3.0,1.0,3.0,0.75,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+"Muscular dystrophy-dystroglycanopathy (limb-girdle), type C, 9",1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Myasthenia, limb-girdle, familial",1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Myoclonic epilepsy,1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Myoclonic epilepsy of Lafora,1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Myofibrillar myopathy,5,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,1,0,0,0,0,0,1,0
+Myopathy with defiency of succinate dehydrogenase ,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+"Myopathy, Native American",1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Myopathy, areflexia, respiratory distress, and dysphagia, early-onset",1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Myopathy, centronuclear",1,4.0,1.0,3.0,1.0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Myopathy, centronuclear, autosomal recessive",1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Myopathy, congenital, with fiber-type disproportion",1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Myopathy, lactic acidosis, and sideroblastic anemia",1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0
+"Myopathy, mitochondrial progressive, with congenital cataract, hearing loss, and developmental delay",1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+"Myopathy, myofibrillar",2,4.0,1.0,3.0,1.0,1,1,1,0,1,0,0,0,1,0,0,0,0,0,1,0
+"Myopathy, myosin storage",1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,1,1,0,0,0,0,0,1,0
+Myotonia congenita,1,4.0,0.6,1.0,0.19999999999999998,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Myotonic dystrophy 1,1,4.0,1.0,3.0,1.0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Myotubular myopathy, X-linked",1,4.0,1.0,3.0,1.0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+N-acetylgalactosaminidase alpha deficiency,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+N-acetylglutamate synthetase deficiency,1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+N-terminal acetyltransferase deficiency,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Nail patella syndrome,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Naxos disease,1,3.0,1.0,3.0,0.75,1,1,1,0,0,1,0,0,1,0,0,0,0,0,1,0
+Nemaline myopathy,9,4.0,1.0,3.0,1.0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Nemaline myopathy, Amish type",1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Neonatal inflammatory skin and bowel disease,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Nephrolithiasis/osteoporosis, hypophosphatemic, 2",1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Nephronophthisis,5,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,0,1,0,0,1,0,0
+Nephronophthisis 2,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Nephropathy,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nephrotic syndrome,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Nephrotic syndrome with sensorineural deafness,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0
+Netherton syndrome; Netherton syndrome 1,1,3.0,1.0,3.0,0.75,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Neurodegeneration with brain iron accumulation 1,1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Neurodegeneration, progressive infantile",1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Neuroferritinopathy,1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Neurofibromatosis 2,1,4.0,1.0,3.0,1.0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Neurofibromatosis, type 1",1,4.0,1.0,3.0,1.0,1,1,1,1,0,1,0,1,0,0,0,0,0,0,0,0
+Neuronal ceroid lipofuscinosis,2,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+"Neuronal ceroid lipofuscinosis, adult-onset",1,3.0,1.0,1.0,0.25,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Neuropathy, hereditary sensory and autonomic, type I",1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+"Neuropathy, hereditary sensory and autonomic, type IA",1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Neuropathy, hereditary sensory and autonomic, type IC",1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Neuropathy, hereditary sensory and autonomic, type IIB",1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Neutropaenia, congenital",1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Neutropenia, congenital",1,4.0,1.0,3.0,1.0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Neutrophil dysfunction and recurrent infection,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Nevoid basal cell carcinoma syndrome,1,4.0,1.0,3.0,1.0,1,1,1,1,0,1,0,1,0,0,0,0,0,0,0,0
+Niemann-Pick disease type C1,1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+Niemann-Pick disease type C2,1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Niemann-Pick disease, type A",1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,1,0,0,1,0,0,0
+"Niemann-Pick disease, type B",1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,1,0,0,1,0,0,0
+"Night blindness, congenital stationary (complete), 1A, X-linked",1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Nijmegen breakage syndrome,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+Noonan syndrome,3,4.0,1.0,3.0,1.0,1,1,1,1,1,1,0,1,1,0,0,0,1,1,0,0
+Noonan syndrome-like disorder with or without juvenile meylomonocytic leukemia,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+Noonan-like syndrome with loose anagen hair,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Norrie disease,1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+North American Indian childhood cirrhosis,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Obesity, morbid, due to leptin receptor deficiency",1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Occipital horn syndrome,1,4.0,1.0,3.0,1.0,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0
+"Ocular albinism, type I",1,4.0,1.0,3.0,1.0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Oculocutaneous albinism, type IV",1,4.0,1.0,3.0,1.0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Oculodentodigital dysplasia,1,4.0,1.0,3.0,1.0,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0
+Oculopharyngeal muscular dystrophy,1,3.0,1.0,1.0,0.25,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Omenn syndrome,2,4.0,1.0,3.0,1.0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Omodysplasia,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Optic atrophy 1,1,4.0,1.0,3.0,1.0,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0
+Optic atrophy 3 with cataract,1,3.0,0.6,1.0,0.15,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+Oral-facial-digital syndrome,1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0
+Ornithine transcarbamylase deficiency,1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+Orofacial clefts,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Orthostatic intolerance,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"Osteogenesis imperfecta, type I",1,4.0,1.0,3.0,1.0,1,1,1,0,1,1,0,0,0,0,0,0,0,1,0,0
+"Osteogenesis imperfecta, type II",1,4.0,1.0,3.0,1.0,1,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0
+"Osteogenesis imperfecta, type VII",1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+"Osteogenesis imperfecta, type XII",1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Osteopetrosis,2,4.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,0,0,1,1,0,0
+"Osteopetrosis, autosomal dominant",1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0
+"Osteopetrosis, autosomal recessive 2",1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0
+"Osteopetrosis, autosomal recessive 3, with renal tubular acidosis",1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0
+"Osteopetrosis, infantile malignant",1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Osteoporosis-pseudoglioma syndrome,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0
+Osteosclerotic bone dysplasia,1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0
+Otopalatodigital spectrum disorder,1,4.0,1.0,3.0,1.0,1,1,1,1,0,1,0,1,0,0,0,0,0,1,0,0
+Otospondylomegaepiphyseal dysplasia,1,4.0,1.0,3.0,1.0,1,1,1,0,0,1,1,0,0,1,0,0,0,1,0,0
+POLG-Related Ataxia Neuropathy Spectrum Disorders,1,4.0,1.0,3.0,1.0,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0
+Pachyonychia congenita,4,3.0,1.0,3.0,0.75,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Paget disease,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Parietal foramina 1,1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Parietal foramina 2,1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Parkinson disease,1,3.0,0.6,1.0,0.15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Parkinson disease 6, early onset",1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Parkinson disease, idiopathic",1,1.0,0.5,1.0,0.041666666666666664,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Paroxysmal nonkinesiogenic dyskinesia,1,4.0,1.0,3.0,1.0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Peeling skin syndrome, acral type",1,3.0,1.0,3.0,0.75,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Pelger-Huet anomaly,1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0
+Pelizaeus-Merzbacher disease,1,4.0,1.0,3.0,1.0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Pelizaeus-Merzbacher-like disease,1,3.0,1.0,3.0,0.75,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Pendred syndrome,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1
+Periventricular heterotopia with microcephaly,1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Peroxisomal acyl-CoA oxidase deficiency,1,3.0,1.0,3.0,0.75,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Peroxisome biogenesis disorder,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0
+Perrault syndrome,3,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+Peters-Plus syndrome,1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1
+Peutz-Jeghers syndrome,1,4.0,1.0,3.0,1.0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Pfeiffer syndrome,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Phelan-McDermid syndrome,1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Phenylketonuria,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+Phosphorylase kinase deficiency,4,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Phosphoserine aminotransferase deficiency,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Piebaldism,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pierson syndrome,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pituitary adenoma,1,4.0,0.6,2.0,0.39999999999999997,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pituitary hormone deficiency,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Pituitary hormone deficiency, combined",1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+"Pituitary hormone deficiency, combined, 2",1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Pituitary hypoplasia,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Plasminogen deficiency,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Platelet glycoprotein IV deficiency,1,3.0,0.2,1.0,0.05000000000000001,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Polycystic kidney and hepatic disease,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Polycystic kidney disease,2,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Polycystic liver disease,2,3.0,0.6,1.0,0.15,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Polyglucosan body disease, adult form",1,4.0,1.0,1.0,0.3333333333333333,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Polymicrogyria with optic nerve hypoplasia,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Polymicrogyria, bilateral frontoparietal",1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Pontocerebellar hypoplasia type 4,1,3.0,1.0,3.0,0.75,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Popliteal pterygium syndrome,1,4.0,0.6,1.0,0.19999999999999998,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Porphyria variegata,1,4.0,0.2,1.0,0.06666666666666667,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+"Porphyria, acute intermittent",1,4.0,0.2,1.0,0.06666666666666667,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Porphyria, congenital erythropoietic",2,3.0,1.0,3.0,0.75,1,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0
+"Porphyria, hepatoerythropoietic",1,3.0,1.0,3.0,0.75,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Potocki-Lupski syndrome,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Premature ovarian failure,1,1.0,0.5,1.0,0.041666666666666664,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Primary ciliary dyskinesia,15,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0
+Primary microcephaly,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Progeroid syndrome,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Progressive cerebello-cerebral atrophy,1,1.0,0.5,1.0,0.041666666666666664,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Progressive external ophthalmoplegia,1,4.0,1.0,3.0,1.0,1,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0
+Proopiomelanocortin deficiency,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+"Properdin deficiency, X-linked",1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Propionicacidemia,2,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,1,0,0,1,0,0,0
+Protein S deficiency,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Prothrombin deficiency,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Proximal myopathy and ophthalmoplegia,1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Pseudohermaphroditism, male, with gynecomastia",1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Pseudohypoaldosteronism,3,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0
+Pseudohypoparathyroidism,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+Pseudopseudohypoparathyroidism,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+Pseudoxanthoma elasticum,1,4.0,1.0,3.0,1.0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Pterygium syndrome,1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Pulmonary alveolar microlithiasis,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+Pulmonary alveolar proteinosis,2,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+Pulmonary arterial hypertension,2,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Pulmonary fibrosis, idiopathic",2,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Pulmonary hypertension,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Pulmonary hypertension, familial primary",1,4.0,0.6,2.0,0.39999999999999997,1,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0
+Pustular psoriasis,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pycnodysostosis,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,1,0,0,0,1,0,0
+Pyruvate carboxylase deficiency,1,4.0,1.0,3.0,1.0,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0
+Pyruvate dehydrogenase complex deficiency,1,3.0,1.0,3.0,0.75,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0
+Pyruvate dehydrogenase deficiency,1,4.0,1.0,3.0,1.0,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0
+Pyruvate dehydrogenase phosphatase deficiency,1,1.0,0.5,1.0,0.041666666666666664,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+Pyruvate kinase deficiency,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+Rapadilino syndrome,1,3.0,1.0,3.0,0.75,1,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0
+Rapid-onset dystonia-parkinsonism,1,3.0,0.6,1.0,0.15,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Refsum disease,2,3.0,1.0,3.0,0.75,1,1,1,1,1,0,0,0,0,1,0,0,0,1,0,0
+Renal cysts and diabetes syndrome,1,3.0,0.6,1.0,0.15,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+Renal glucosuria,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Renal hypodysplasia,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Renal tubular acidosis & hearing loss,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0
+"Renal tubular acidosis, proximal, with ocular abnormalities",1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Renal tubular dysgenesis,4,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0
+Restrictive dermopathy,1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0
+Retinal dystrophy,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Retinitis pigmentosa,2,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+Retinoblastoma,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Retinoschisis, X linked",1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rett syndrome,1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Reynolds syndrome,1,1.0,0.5,1.0,0.041666666666666664,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+Rh-deficiency syndrome,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Rhizomelic chondrodysplasia punctata,1,4.0,1.0,3.0,1.0,1,1,1,1,1,0,0,0,0,1,0,0,0,1,0,0
+"Rhizomelic chondrodysplasia punctata, type 3",1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rippling muscle disease,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0
+Risk for deep vein thrombosis,1,4.0,0.2,1.0,0.06666666666666667,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Roberts syndrome,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Robinow syndrome,2,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Rothmund-Thomson syndrome,1,4.0,1.0,3.0,1.0,1,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0
+Rubinstein-Taybi syndrome,1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"SCID, autosomal recessive, T-negative/B-positive type",1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Saethre-Chotzen syndrome,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+"Sandhoff disease, infantile, juvenile, and adult forms",1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+Sanfilippo syndrome type B,1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+"Scapuloperoneal syndrome, myopathic type",1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,1,0,0,1,1,0,0,0,0,0,1,0
+Schimke immunoosseous dysplasia,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,1,0,1,1,0,0
+Schinzel-Giedion syndrome,1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Schneckenbecken dysplasia,1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0
+Schwartz-Jampel syndrome,1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0
+Sea-blue histiocyte disease,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Seckel syndrome,3,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1
+Senior-Loken syndrome 5,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Sensorineural deafness,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Sensorineural hearing loss,4,4.0,1.0,3.0,1.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Sepiapterin reductase deficiency,1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+Severe combined immunodeficiency due to ADA deficiency,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Severe combined immunodeficiency with microcephaly, growth retardation, and sensitivity to ionizing radiation",1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Severe combined immunodeficiency with sensitivity to ionizing radiation,1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Severe combined immunodeficiency, Athabascan type",1,4.0,1.0,3.0,1.0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Severe combined immunodeficiency, X-linked",1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Severe insulin resistance and diabetes mellitus,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Shah-Waardenburg syndrome,1,4.0,1.0,3.0,1.0,1,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+"Short rib-polydactyly syndorme, type II",1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+Shprintzen-Goldberg syndrome,2,3.0,1.0,3.0,0.75,1,1,1,0,1,1,0,1,0,0,0,1,0,1,0,0
+Shwachman-Bodian-Diamond syndrome,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0
+"Sialic acid storage disorder, infantile",1,3.0,1.0,3.0,0.75,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0
+Sialidosis ,1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+Sideroblastic anaemia and ataxia,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0
+Silver spastic paraplegia syndrome,1,3.0,0.6,1.0,0.15,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Simpson-Golabi-Behmel syndrome,2,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,0
+Sinoatrial node dysfunction and deafness,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Sitosterolemia,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+Sjogren-Larsson syndrome,1,4.0,1.0,3.0,1.0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Smith-Lemli-Opitz syndrome,1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,1,0,1,0,0,0,0
+Smith-Magenis syndrome,1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+Sotos syndrome,1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1
+Spastic ataxia,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Spastic ataxia Charlevoix-Saguenay type,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spastic paraplegia,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Spastic paraplegia 2, X-linked",1,3.0,1.0,3.0,0.75,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+"Spastic paraplegia 50, autosomal recessive",1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Spastic paraplegia, autosomal dominant",1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Spherocytosis,4,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0
+Spinal and bulbar muscular atrophy of Kennedy,1,4.0,1.0,1.0,0.3333333333333333,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Spinal muscular atrophy,1,4.0,1.0,3.0,1.0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Spinal muscular atrophy with respiratory distress,1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Spinal muscular atrophy, X-linked infantile",1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Spinal muscular atrophy, distal, X-linked 3",1,1.0,0.5,1.0,0.041666666666666664,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0
+Spinocerebellar ataxia infantile-onset,1,3.0,1.0,3.0,0.75,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0
+"Spinocerebellar ataxia, autosomal recessive 10",1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Spinocerebellar ataxia, autosomal recessive 11",1,1.0,0.5,1.0,0.041666666666666664,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spondylo-megaepiphyseal-metaphyseal dysplasia,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"Spondylocostal dysostosis, autosomal recessive 2",1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"Spondylocostal dysostosis, autosomal recessive, 1",1,3.0,1.0,3.0,0.75,1,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0
+"Spondyloepimetaphyseal dysplasia with joint laxity, type 2",1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Spondyloepiphyseal dysplasia tarda,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+"Spondylometaepiphyseal dysplasia, short limb-hand type",1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Stargardt disease,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stickler syndrome,4,4.0,1.0,3.0,1.0,1,1,1,0,0,1,1,0,0,1,0,0,0,1,0,0
+"Striatonigral degeneration, infantile",1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stuve-Wiedemann syndrome,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Succinic semialdehyde dehydrogenase deficiency,1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Sudden infant death,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sudden infant death syndrom,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Sudden infant death with dysgenesis of the testes syndrome,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sulphite oxidase deficiency,1,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Supravalvar aortic stenosis,1,4.0,1.0,3.0,1.0,1,1,1,0,0,1,0,1,0,0,0,1,0,0,0,0
+"Surfactant metabolism dysfunction, pulmonary",1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Surfactant metabolism dysfunction, pulmonary, 3",1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Symphalangism, proximal, 1A",1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Syndactyly - telecanthus - anogenital and renal malformations,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Syndromic cutis aplasia & limb anomalies,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Tay-Sachs disease,1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+"Telangiectasia, hereditary hemorrhagic, type 1",1,4.0,1.0,3.0,1.0,1,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+"Telangiectasia, hereditary hemorrhagic, type 2",1,4.0,1.0,3.0,1.0,1,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+Temtamy preaxial brachydactyly syndrome,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+"Tetra-amelia, autosomal recessive",1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Tetralogy of Fallot,5,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Thalassaemia,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Thalassaemia alpha,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Thalassemia, alpha",1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+Thanatophoric dysplasia type 1,1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0
+Thiamine-responsive megaloblastic anemia syndrome,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+Thrombocytopaenia,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Thrombocytopaenia-absent radius syndrome,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+Thrombocytopenia 2,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+Thrombocytopenia 4,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Thrombophilia due to antithrombin III deficiency,1,4.0,0.6,1.0,0.19999999999999998,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Thrombophilia due to protein C deficiency,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Thrombotic thrombocytopenic purpura, familial",1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0
+Thyroid dyshormonogenesis,3,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Thyroid dyshormonogenesis 1,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Thyroid dyshormonogenesis 2A,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Thyroid dyshormonogenesis 3,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Thyroid hormone resistance,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Thyrotropin-releasing hormone deficiency,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Thyrotropin-releasing hormone resistance, generalized",1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Total anomalous pulmonary venous return,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Townes-Brocks syndrome,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0
+Transposition of great arteries,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Treacher Collins syndrome 1,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Trichohepatoenteric syndrome,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Trichothiodystrophy,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Trimethylaminuria,1,4.0,1.0,1.0,0.3333333333333333,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tuberous sclerosis 1,1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,0,1,1,0,0,0,0
+Tuberous sclerosis 2,1,4.0,1.0,3.0,1.0,1,1,1,1,0,0,0,0,0,0,1,1,0,0,0,0
+Tyrosine hydroxylase deficiency,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+"Tyrosinemia, type I",1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0
+"Tyrosinemia, type II",1,4.0,1.0,3.0,1.0,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+"Tyrosinemia, type III",1,2.0,0.85,1.0,0.14166666666666666,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+UDP glucuronosyltransferase deficiency,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ullrich congenital muscular dystrophy,3,4.0,1.0,3.0,1.0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Ulna and fibula absence of with severe limb deficiency,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Usher syndrome,3,4.0,1.0,3.0,1.0,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+Usher syndrome 1,2,3.0,1.0,3.0,0.75,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Usher syndrome 2,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Usher syndrome type 3B,1,1.0,0.5,1.0,0.041666666666666664,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"Usher syndrome, type 1D",1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+"Usher syndrome, type 3A",1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+VLCAD deficiency,1,4.0,1.0,3.0,1.0,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0
+"Ventricular fibrillation, paroxysmal familial, 2",1,1.0,0.5,1.0,0.041666666666666664,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"Ventricular tachycardia, catecholaminergic polymorphic",2,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0
+Vitamin D-dependent rickets,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Vitamin D-dependent rickets, type I",1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Waardenburg syndrome,4,4.0,1.0,3.0,1.0,1,1,1,0,0,1,1,0,0,0,0,1,0,0,0,0
+Wagner syndrome,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+Walker-Warburg syndrome,2,4.0,1.0,3.0,1.0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Warburg micro syndrome ,2,3.0,1.0,3.0,0.75,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Weaver syndrome 2,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Weill-Marchesani syndrome 2, dominant",1,2.0,0.85,1.0,0.14166666666666666,1,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0
+Werner syndrome,1,4.0,1.0,3.0,1.0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Wilms tumor, type 1",1,4.0,0.6,2.0,0.39999999999999997,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Wilson disease,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+Wiskott-Aldrich syndrome,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+Wolcott-Rallison syndrome,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Wolff-Parkinson-White syndrome,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0
+Wolfram syndrome,2,4.0,1.0,3.0,1.0,1,1,1,1,1,0,1,0,0,1,0,0,0,0,0,0
+Wolman syndrome,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+X-linked hydrocephalus syndrome,1,4.0,1.0,3.0,1.0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+X-linked recessive intellectual deficit - epilepsy,1,2.0,0.85,1.0,0.14166666666666666,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Xeroderma pigmentosum,9,4.0,1.0,3.0,1.0,1,1,1,0,1,1,0,0,0,0,0,0,1,0,0,0
+ZAP70-related severe combined immunodeficiency,1,3.0,1.0,3.0,0.75,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+Zellweger syndrome,12,4.0,1.0,3.0,1.0,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0
+van der Woude syndrome,1,4.0,1.0,3.0,1.0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+von Hippel-Lindau syndrome,1,4.0,1.0,3.0,1.0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+von Willebrand disease,1,4.0,0.6,2.0,0.39999999999999997,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0

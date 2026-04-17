@@ -1,0 +1,554 @@
+gene_symbol,variant,classification,disease_name,source,penetrance
+CYP21A2 (NM_000500.7),"c.844G>T
+p.Val282Leu",Pathogenic,"Congenital adrenal
+hyperplasia due to 21-
+hydroxylase deficiency",mmc1_babyseq_ill,High
+CYP21A2 (NM_000500.7),"c.1447C>T
+p.Pro483Ser",Pathogenic,"Congenital adrenal
+hyperplasia due to 21-
+hydroxylase deficiency",mmc1_babyseq_ill,High
+GLMN (NM_053274.2),"c.554_558delinsG
+p.Lys185Serfs*19",Likely pathogenic,Glomuvenous malformations,mmc1_babyseq_ill,High
+SLC7A9 (NM_014270.4),"c.614dupA
+p.Asn206Glufs*3
+",Pathogenic,Cystinuria,mmc1_babyseq_ill,High
+BRCA2 (NM_000059.3),"c.3545_3546del
+p.Phe1182*",Pathogenic,Hereditary breast and ovarian cancer (HBOC),mmc1_babyseq_ill,High
+ANKRD11 (NM_001256182.1),"c.2409_2412del
+p.Glu805Argfs*57",Likely pathogenic,KBG syndrome,mmc1_babyseq_ill,High
+G6PD (NM_000402.3),"c.961G>A
+p.Val321Met",Likely pathogenic,Glucose-6-phosphate dehydrogenase (G6PD) deficiency,mmc1_babyseq_ill,High
+KCNQ4 (NM_004700.3),"c.1671_1672insACGAC
+p.Val558Thrfs*3",Likely pathogenic,Non-syndromic hearing loss,mmc1_babyseq_ill,High
+TTN  (NM_133432.3),"c.12344delC
+p.Pro4115Glnfs*14",Likely pathogenic,Dilated cardiomyopathy,mmc1_babyseq_ill,High
+TTN  (NM_133378.4),"c.54172C>T
+p.Arg18058*",Likely pathogenic,Dilated cardiomyopathy,mmc1_babyseq_ill,High
+TTN  (NM_133432.3),"c.64276_64282delinsTA
+p.Ala21426*",Pathogenic,Dilated cardiomyopathy,mmc1_babyseq_ill,High
+VCL   (NM_014000.2),"c.1713delA
+p.Ala573Hisfs*8",Likely pathogenic,Dilated cardiomyopathy,mmc1_babyseq_ill,High
+ELN   (NM_000501.3),"c.1957G>T
+p.Gly653*",Pathogenic,Supravalvular aortic stenosis,mmc1_babyseq_ill,High
+BTD (NM_000060.2),"c.44+1G>A
+p.?",Likely pathogenic,Biotinidase deficiency,mmc1_babyseq_ill,High
+BTD (NM_000060.2),"c.1612C>T
+p.Arg538Cys",Pathogenic,Biotinidase deficiency,mmc1_babyseq_ill,High
+TTN  (NM_133378.4),"c.34894_34895insG 
+p.Met11632SerfsX8",Likely pathogenic,Dilated cardiomyopathy,mmc1_babyseq_ill,High
+CD46 (NM_002389.4),"c.286+2T>G
+p.?",Likely pathogenic,Atypical hemolytic-uremic syndrome,mmc1_babyseq_ill,High
+MYBPC3 (NM_000256.3),"c.1624G>C
+p.Glu542Gln",Pathogenic,Hypertrophic cardiomyopathy,mmc1_babyseq_ill,High
+BRCA2 (NM_000059.3),"c.8297delC
+p.Thr2766Asnfs*11",Pathogenic,Hereditary breast and ovarian cancer (HBOC),mmc1_babyseq_ill,High
+MSH2 (NM_000251.2),"c.1637_1638insA
+p.Asn547Glufs*4",Pathogenic,Lynch syndrome,mmc1_babyseq_ill,High
+ABCA3,"c.875A>T
+p.Glu292Val",Likely pathogenic,Pulmonary surfactant metabolism dysfunction type 3,mmc2_babyseq_variants,High
+ABCA4,"c.2588G>C
+p.Gly863Ala",Pathogenic,Stargardt disease,mmc2_babyseq_variants,High
+ABCA4,"c.3113C>T
+p.Ala1038Val",Likely pathogenic,Stargardt disease,mmc2_babyseq_variants,High
+ABCA4,"c.6079C>T
+p.Leu2027Phe",Pathogenic,Stargardt disease,mmc2_babyseq_variants,High
+ABCA4,"c.5882G>A
+p.Gly1961Glu",Pathogenic,Stargardt disease,mmc2_babyseq_variants,Reduced
+ABCA4,"c.161G>A
+p.Cys54Tyr",Likely pathogenic,Stargardt disease,mmc2_babyseq_variants,High
+ABCG8,"c.965-1G>A
+p.?",Likely pathogenic,Sitosterolemia,mmc2_babyseq_variants,High
+ACADM,"c.997A>G
+p.Lys333Glu",Pathogenic,Medium-chain acyl-CoA dehydrogenase (MCAD) deficiency,mmc2_babyseq_variants,High
+ACADM,"c.811G>A
+p.Gly271Arg",Pathogenic,Medium-chain acyl-CoA dehydrogenase (MCAD) deficiency,mmc2_babyseq_variants,High
+ACADM,"c.211T>C
+p.Tyr71His",Likely pathogenic,Medium-chain acyl-CoA dehydrogenase (MCAD) deficiency,mmc2_babyseq_variants,High
+ACADS,"c.319C>T
+p.Arg107Cys",Pathogenic,Acyl-CoA-dehydrogenase deficiency,mmc2_babyseq_variants,High
+ACADVL,"c.848T>C
+p.Val283Ala",Pathogenic,Very long chain acyl-CoA dehydrogenase deficiency,mmc2_babyseq_variants,High
+ACSF3,"c.1672C>T
+p.Arg558Trp",Likely pathogenic,Malonic & methylmalonic aciduria,mmc2_babyseq_variants,High
+ADAR,"c.577C>G
+p.Pro193Ala",Likely pathogenic,Aicardi-Goutières syndrome,mmc2_babyseq_variants,High
+ADSL,"c.1277G>A
+p.Arg426His",Pathogenic,Adenylosuccinate lyase deficiency,mmc2_babyseq_variants,High
+ALB,"c.412C>T
+p.Arg138X",Pathogenic,Congenital analbuminemia,mmc2_babyseq_variants,High
+ALDH7A1,"c.1279G>C
+p.Glu427Gln",Pathogenic,Pyridoxine‐dependent epilepsy,mmc2_babyseq_variants,High
+ALDOB,c.448G>C                              p.Ala150Pro,Pathogenic,Hereditary fructose intolerance,mmc2_babyseq_variants,High
+ALG1,"c.773C>T
+p.Ser258Leu",Pathogenic,ALG-congenital disorder of glycosylation,mmc2_babyseq_variants,High
+ALOXE3,"c.2285C>T
+p.Pro762Leu",Pathogenic,Congenital ichthyosis,mmc2_babyseq_variants,High
+ANTXR1,"c.505C>T
+p.Arg169X",Likely pathogenic,Growth delay alopecia pseudoanodontia-optic atrophy syndrome (GAPO),mmc2_babyseq_variants,High
+APTX,"c.837G>A
+p.Trp279X",Pathogenic,Ataxia with oculomotor apraxia type 1,mmc2_babyseq_variants,High
+APTX,"c.124C>T
+p.Arg42X",Likely pathogenic,Ataxia with oculomotor apraxia type 1,mmc2_babyseq_variants,High
+ARMC4,"c.2495+1G>A
+p.?",Pathogenic,Primary ciliary dyskinesia,mmc2_babyseq_variants,High
+ARSA,"c.869G>A
+p.Arg290His",Likely pathogenic,Metachromatic leukodystrophy,mmc2_babyseq_variants,High
+ASAH1,"c.696+1G>C
+p.?",Likely pathogenic,Farber lipogranulomatosis,mmc2_babyseq_variants,High
+ASL,"c.578G>A
+p.Arg193Gln",Likely pathogenic,Argininosuccinate lysase deficiency,mmc2_babyseq_variants,High
+ASPA,"c.854A>C
+p.Glu285Ala",Pathogenic,Canavan disease,mmc2_babyseq_variants,High
+ASPM,"c.4720C>T
+p.Gln1574X",Likely pathogenic,Primary microcephaly type 5,mmc2_babyseq_variants,High
+ASS1,"c.787G>A
+p.Val263Met",Likely pathogenic,Citrullinemia,mmc2_babyseq_variants,High
+ATF6,"c.160dupG
+p.Glu54GlyfsX5",Pathogenic,Achromatopsia,mmc2_babyseq_variants,High
+ATP2A1,"c.2744+1G>A
+p.?",Likely pathogenic,Brody myopathy,mmc2_babyseq_variants,High
+ATP7B,"c.3207C>A
+p.His1069Gln",Pathogenic,Wilson disease,mmc2_babyseq_variants,High
+ATP7B,"c.2804C>T
+p.Thr935Met",Pathogenic,Wilson disease,mmc2_babyseq_variants,High
+B3GALT6,"c.763C>T
+p.Gln255X",Likely pathogenic,B3GALT6-associated skeletal and connective tissue disorders,mmc2_babyseq_variants,High
+BBS1,"c.1169T>G
+p.Met390Arg",Pathogenic,Bardet-Biedl syndrome,mmc2_babyseq_variants,High
+BBS10,"c.2119_2120delGT
+p.Val707X",Likely pathogenic,Bardet-Biedl syndrome,mmc2_babyseq_variants,High
+BCKDHA,"c.511delC
+p.Leu171TrpfsX159",Likely pathogenic,Maple syrup urine disease,mmc2_babyseq_variants,High
+BEST1,"c.1514_1515delTG
+p.Val505GlufsX9",Likely pathogenic,Bestrophinopathy,mmc2_babyseq_variants,High
+BEST1,"c.602T>C
+p.Ile201Thr",Likely pathogenic,Bestrophinopathy,mmc2_babyseq_variants,High
+BTD,"c.1330G>C
+p.Asp444His",Pathogenic,Biotinidase deficiency,mmc2_babyseq_variants,High
+BTD,"c.[511G>A;1330G>C]
+p.[Ala171Thr;Asp444His]",Pathogenic,Biotinidase deficiency,mmc2_babyseq_variants,High
+BTD,"c.1330G>C
+p.Asp444His",Pathogenic,Biotinidase deficiency,mmc2_babyseq_variants,High
+C12orf65,"c.210delA
+p.Gly72Alafs*13",Pathogenic,Combined oxidative phosphorylation deficiency type 7,mmc2_babyseq_variants,High
+C5,"c.4336delG
+p.Val1446TrpfsX19",Likely pathogenic,Complement component 5 deficiency,mmc2_babyseq_variants,High
+C6,"c.1879delG
+p.Asp627ThrfsX4",Pathogenic,Complement component 6 deficiency,mmc2_babyseq_variants,High
+C8B,"c.271C>T
+p.Gln91X",Pathogenic,Complement C8b deficiency,mmc2_babyseq_variants,High
+C8B,"c.1282C>T
+p.Arg428X",Pathogenic,Complement C8b deficiency,mmc2_babyseq_variants,High
+CBS,"c.919G>A
+p.Gly307Ser",Pathogenic,Homocystinuria,mmc2_babyseq_variants,High
+CBS,"c.833T>C
+p.Ile278Thr",Pathogenic,Homocystinuria,mmc2_babyseq_variants,High
+CC2D2A,"c.4667A>T
+p.Asp1556Val",Pathogenic,Joubert syndrome,mmc2_babyseq_variants,High
+CCDC103,"c.223_226dupTGTC
+p.His76LeufsX15",Likely pathogenic,Primary ciliary dyskinesia,mmc2_babyseq_variants,High
+CEP152,"c.314G>A
+p.Trp105X",Likely pathogenic,Seckel syndrome,mmc2_babyseq_variants,High
+CFTR,"c.1865G>A
+p.Gly622Asp",Likely pathogenic,Cystic fibrosis,mmc2_babyseq_variants,High
+CFTR,"c.1521_1523delCTT 
+p.Phe508del",Pathogenic,Cystic fibrosis,mmc2_babyseq_variants,High
+CFTR,"c.1766+5G>T
+p.?",Likely pathogenic,Cystic fibrosis,mmc2_babyseq_variants,High
+CHAT,"c.160G>A
+p.Val54Met",Likely pathogenic,"Congenital myasthenic
+syndrome",mmc2_babyseq_variants,High
+CHST6,"c.599T>G
+p.Leu200Arg",Pathogenic,Macular corneal dystrophy,mmc2_babyseq_variants,High
+CIITA,"c.2888+1G>A
+p.?",Pathogenic,Bare lymphocyte syndrome type II,mmc2_babyseq_variants,High
+CIITA,"c.338dupG
+p.Leu114ProfsX13",Likely pathogenic,Bare lymphocyte syndrome type II,mmc2_babyseq_variants,High
+CNGA3,"c.1306C>T
+p.Arg436Trp",Pathogenic,CNGA3-related achromatopsia/ cone-rod dystrophy,mmc2_babyseq_variants,High
+CNGB3,"c.1148delC
+p.Thr383IlefsX13",Pathogenic,Achromatopsia,mmc2_babyseq_variants,High
+COL17A1,c.3821_3829delinsC p.Gly1274AlafsX16,Likely pathogenic,Junctional epidermolysis bullosa,mmc2_babyseq_variants,High
+COL6A2,"c.1970-9G>A
+p.?",Pathogenic,Collagen VI-related myopathy,mmc2_babyseq_variants,High
+COL7A1,"c.2993-2A>G
+p. ?",Likely pathogenic,Epidermolysis bullosa dystrophica,mmc2_babyseq_variants,High
+CPT1A,"c.1163+1G>A 
+p.?",Pathogenic,Carnitine palmitoyltransferase I (CPT I) deficiency,mmc2_babyseq_variants,High
+CPT2,"c.338C>T
+p.Ser113Leu",Pathogenic,Carnitine palmitoyltransferase II deficiency,mmc2_babyseq_variants,High
+CRB1,"c.291_299delAATTGATGG
+p.Ile98_Gly100del",Likely pathogenic,Retinal disorders,mmc2_babyseq_variants,High
+CTNS,"c.870C>G
+p.Tyr290X",Pathogenic,Nephropathic cystinosis,mmc2_babyseq_variants,High
+CYB5R3,"c.688G>A
+p.Val253Met",Pathogenic,Congenital methemoglobinemia,mmc2_babyseq_variants,High
+CYP1B1,"c.1103G>A
+p.Arg368His",Pathogenic,Primary congenital glaucoma,mmc2_babyseq_variants,High
+CYP27A1,"c.1214G>A
+p.Arg405Gln",Pathogenic,Cerebrotendinous xanthomatosis,mmc2_babyseq_variants,High
+CYP4V2,"c.992A>C
+ p.His331Pro",Pathogenic,Bietti crystalline dystrophy and related disorders,mmc2_babyseq_variants,High
+CYP4V2,"c.802-8_810delinsGC
+p.?",Pathogenic,Bietti crystalline dystrophy and related disorders,mmc2_babyseq_variants,High
+DBT,"c.901C>T
+p.Arg301Cys",Pathogenic,Maple syrup urine disease,mmc2_babyseq_variants,High
+DGUOK,"c.605_606delGA
+p.Arg202ThrfsX13",Pathogenic,Deoxyguanosine kinase deficiency,mmc2_babyseq_variants,High
+DHCR7,"c.964-1G>C
+p.?",Pathogenic,Smith-Lemli-Opitz syndrome,mmc2_babyseq_variants,High
+DHCR7,"c.724C>T
+p.Arg242Cys",Likely pathogenic,Smith-Lemli-Opitz syndrome,mmc2_babyseq_variants,High
+DHCR7,"c.452G>A
+p.Trp151X",Pathogenic,Smith-Lemli-Opitz syndrome,mmc2_babyseq_variants,High
+DMP1,"c.979C>T
+p.Gln327X",Likely pathogenic,Hereditary hypophosphatemic rickets,mmc2_babyseq_variants,High
+DNAAF4,"c.523delA
+p.Ile175PhefsX21",Likely pathogenic,Primary ciliary dyskinesia,mmc2_babyseq_variants,High
+DNAI2,"c.1672_1673delGC
+p.Ala558ArgfsX40",Likely pathogenic,Primary ciliary dyskinesia,mmc2_babyseq_variants,High
+DOCK6,"c.4576C>T
+p.Arg1526X",Likely pathogenic,Adams-Oliver syndrome,mmc2_babyseq_variants,High
+DOK7,c.1124_1127dup p.Ala378SerfsX30,Pathogenic,Congenital myasthenia syndrome,mmc2_babyseq_variants,High
+DUOX2,"c.2895_2898del 
+p.Phe966SerfsX29",Pathogenic,"Congenital hypothyroidism, due to dyshormonogenesis",mmc2_babyseq_variants,High
+DUOX2,"c.1462G>A
+p.Gly488Arg",Pathogenic,Congenital hypothyroidism and related disorders,mmc2_babyseq_variants,High
+DYNC2H1,"c.3262dupA
+p.Ile1088AsnfsX2",Likely pathogenic,Short-rib thoracic dysplasia with or without polydactyly,mmc2_babyseq_variants,High
+EDAR,"c.529+1G>A
+p.?",Pathogenic,Hypohidrotic ectodermal dysplasia,mmc2_babyseq_variants,High
+EPG5,"c.3698G>A
+p.Trp1233X",Pathogenic,Vici syndrome,mmc2_babyseq_variants,High
+ERCC5,"c.1173_1174insT
+p.Lys392X",Likely pathogenic,Xeroderma pigmentosum,mmc2_babyseq_variants,High
+EXOSC3,"c.238G>T
+p.Val80Phe",Likely pathogenic,Pontocerebellar hypoplasia,mmc2_babyseq_variants,High
+EYS,"c.8678delA
+p.Asn2893Metfs*25",Likely pathogenic,Retinitis pigmentosa,mmc2_babyseq_variants,High
+F8,"c.984T>G
+p.Phe328Leu",Likely pathogenic,Hemophilia A,mmc2_babyseq_variants,High
+FAH,"c.1062+5G>A
+p.?",Pathogenic,Tyrosinemia type I,mmc2_babyseq_variants,High
+FANCD2,"c.2715+1G>A
+p.?",Pathogenic,Fanconi anemia,mmc2_babyseq_variants,High
+FANCG,"c.85-2A>T
+p.?",Pathogenic,Fanconi anemia,mmc2_babyseq_variants,High
+FAT4,"c.6700C>T
+p.Arg2234X",Likely pathogenic,Van Maldergem syndrome 2 / Hennekam lymphangiectasia-lymphedema syndrome 2,mmc2_babyseq_variants,High
+FBXL4,c.1303C>T                                                 p.Arg435X,Pathogenic,Mitochondrial DNA depletion syndrome 13,mmc2_babyseq_variants,High
+FBXL4,"c.1012G>T
+p.Glu338X",Pathogenic,Mitochondrial DNA depletion syndrome 13,mmc2_babyseq_variants,High
+FREM2 ,"c.6350_6351delCA
+p.Thr2117SerfsX5",Likely pathogenic,Fraser syndrome,mmc2_babyseq_variants,High
+G6PC,"c.247C>T
+p.Arg83Cys",Pathogenic,Glycogen storage disease type I,mmc2_babyseq_variants,High
+G6PD,"c.202G>A
+p.Val68Met
+(A- allele)",Pathogenic,Glucose-6-phosphate-dehydrogenase deficiency,mmc2_babyseq_variants,High
+GAA,"c.1316T>A
+p.Met439Lys",Likely pathogenic,Pompe disease,mmc2_babyseq_variants,High
+GALC,"c.334A>G
+p.Thr112Ala",Likely pathogenic,Krabbe disease,mmc2_babyseq_variants,High
+GALNS,"c.850T>G
+p.Phe284Val",Likely pathogenic,"Mucopolysaccharidosis
+type Iva",mmc2_babyseq_variants,High
+GALNS,"c.740G>A
+p.Gly247Asp",Likely pathogenic,Mucopolysaccharidosis IVa,mmc2_babyseq_variants,High
+GBA,"c.1279G>T
+p.Glu427X",Likely pathogenic,Gaucher disease,mmc2_babyseq_variants,High
+GBA,"c.1226A>G
+p.Asn409Ser",Pathogenic,Gaucher disease,mmc2_babyseq_variants,High
+GJB2,"c.101T>C
+p.Met34Thr",Pathogenic,GJB2-related non syndromic hearing loss,mmc2_babyseq_variants,High
+GJB2,"c.109G>A
+p.Val37Ile",Pathogenic,GJB2-related non syndromic hearing loss,mmc2_babyseq_variants,High
+GJB2,"c.35delG
+p.Gly12ValfsX2",Pathogenic,GJB2-related non-syndromic hearing loss,mmc2_babyseq_variants,High
+GJB2,"c.283G>A 
+p.Val95Met",Pathogenic,GJB2-related nonsyndromic hearing loss,mmc2_babyseq_variants,High
+GJB2,"c.269T>C
+p.Leu90Pro",Pathogenic,GJB2-related nonsyndromic hearing loss,mmc2_babyseq_variants,High
+GLDC,"c.128delA
+p.Asp43AlafsX48",Pathogenic,Glycine encephalopathy,mmc2_babyseq_variants,High
+GLIS3,"c.571_572dupCT
+p.Asn192X",Likely pathogenic,Neonatal diabetes mellitus with congenital hypothyroidism,mmc2_babyseq_variants,High
+GLRA1,"c.403delC
+p.His135ThrfsX12",Likely pathogenic,Hereditary hyperekplexia,mmc2_babyseq_variants,High
+GNE,"c.1225G>T
+p.Asp409Tyr",Pathogenic,GNE-related myopathy,mmc2_babyseq_variants,High
+GNPTAB,"c.3603‐1G>A
+p.?",Pathogenic,Mucolipidosis type III,mmc2_babyseq_variants,High
+GNRHR,"c.317A>G
+p.Gln106Arg",Pathogenic,Hypogonadotropic hypogonadism,mmc2_babyseq_variants,High
+GPI,"c.1369C>T
+p.Arg457X",Likely pathogenic,"Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency",mmc2_babyseq_variants,High
+GPR179,"c.2706_2707dupAC
+p.Pro903HisfsX67",Likely pathogenic,Congenital stationary night blindness,mmc2_babyseq_variants,High
+GPR179,"c.984delC
+p.Ser329LeufsX4",Pathogenic,Congenital stationary night blindness,mmc2_babyseq_variants,High
+GPR179,"c.799_803delinsTGATCTAC
+p.Gln267X",Likely pathogenic,Congenital stationary night blindness,mmc2_babyseq_variants,High
+GRHPR,"c.103delG
+p.Asp35ThrfsX11",Pathogenic,Primary hyperoxaluria type II,mmc2_babyseq_variants,High
+GYS2,"c.736C>T
+p.Arg246Cys",Likely pathogenic,Glycogen storage disease type 0,mmc2_babyseq_variants,High
+HEXA,"c.1274_1277dupTATC
+p.Tyr427IlefsX5",Pathogenic,Tay-Sachs disease,mmc2_babyseq_variants,High
+HIBCH,"c.809+1G>A 
+p.?",Likely pathogenic,3-Hydroxyisobutyrl-CoA hydrolase deficiency,mmc2_babyseq_variants,High
+HOGA1,"c.700+5G>T
+p.?",Pathogenic,Primary hyperoxaluria type 3,mmc2_babyseq_variants,High
+HSD17B3,"c.277+4A>T
+p.?",Pathogenic,"17 beta-hydroxysteroid dehydrogenase 3 deficiency,",mmc2_babyseq_variants,High
+HSD3B2,"c.1064G>A
+p.Trp355X",Likely pathogenic,3 beta-hydroxysteroid dehydrogenase deficiency,mmc2_babyseq_variants,High
+IDUA,"c.1205G>A
+p.Trp402X",Pathogenic,Mucopolysaccharidosis type I,mmc2_babyseq_variants,High
+IKBKAP,"c.2204+6T>C 
+p.? ",Pathogenic,Familial dysautonomia,mmc2_babyseq_variants,High
+IL36RN,"c.338C>T
+p.Ser113Leu",Pathogenic,Generalized pustular psoriasis,mmc2_babyseq_variants,High
+IQCB1,"c.1363C>T
+p.Arg455X",Pathogenic,Senior- Løken syndrome,mmc2_babyseq_variants,High
+KIAA0586,"c.428delG
+p.Arg143Lysfs",Pathogenic,Joubert syndrome,mmc2_babyseq_variants,High
+LAMA1,"c.8062_8068dup
+p.Leu2690GlnfsX42",Likely pathogenic,Poretti-Boltshauser syndrome,mmc2_babyseq_variants,High
+LAMB2,"c.3109+1G>T
+p.?",Likely pathogenic,Pierson syndrome,mmc2_babyseq_variants,High
+LIFR,"c.1578delA
+p.Lys526AsnfsX4",Likely pathogenic,Stuve -Wiedemann syndrome,mmc2_babyseq_variants,High
+LIG4,"c.879_883delAAATG
+p.Asn294IlefsX2 ",Likely pathogenic,LIG4 syndrome,mmc2_babyseq_variants,High
+LOXHD1,"c.2244+2T>G
+p.?",Likely pathogenic,Nonsyndromic hearing loss,mmc2_babyseq_variants,High
+LRPAP1,"c.181C>T
+p.Gln61X",Likely pathogenic,LRPAP1-related nonsyndromic myopia,mmc2_babyseq_variants,High
+LTBP2,"c.4597C>T
+p.Gln1533X",Likely pathogenic,LTBP2-related ocular disease,mmc2_babyseq_variants,High
+MCCC1,"c.974T>G
+p.Met325Arg",Likely pathogenic,3-Methylcrotonyl-CoA carboxylase 1 deficiency,mmc2_babyseq_variants,High
+MCOLN1,"c.406-2A>G
+p.?",Pathogenic,Mucolipidosis IV,mmc2_babyseq_variants,High
+MEFV,"c.2282G>A
+p.Arg761His",Pathogenic,Familial Mediterranean fever,mmc2_babyseq_variants,High
+MEFV,"c.2177T>C
+p.Val726Ala",Likely pathogenic,Familial Mediterranean fever,mmc2_babyseq_variants,Moderate
+MFSD8,"c.863+1G>A
+p.?",Pathogenic,Late‐infantile neuronal ceroid lipofuscinosis,mmc2_babyseq_variants,High
+MKS1,"c.417G>A
+p.Glu139Glu",Likely pathogenic,Meckel syndrome,mmc2_babyseq_variants,High
+MMAA,"c.433C>T
+p.Arg145X",Pathogenic,Methylmalonic aciduria,mmc2_babyseq_variants,High
+MMACHC,"c.331C>T
+p.Arg111X",Pathogenic,"Methylmalonic aciduria and homocystinuria, cblC type",mmc2_babyseq_variants,High
+MME,"c.1342C>T
+p.Arg448X",Pathogenic,NEP deficiency (responsible for alloimmune antenatal membranous nephropathy),mmc2_babyseq_variants,High
+MMP21,"c.1203G>A
+p.Trp401X",Likely pathogenic,Heterotaxy,mmc2_babyseq_variants,High
+MTFMT,"c.1100_1101delTT
+p.Phe367SerfsX22",Pathogenic,Combined oxidative phosphorylation deficiency,mmc2_babyseq_variants,High
+MTRR,"c.421C>T
+p.Arg141X",Pathogenic,"Homocystinuria/ Megaloblastic anemia cb1E
+complementation type",mmc2_babyseq_variants,High
+MUTYH,"c.1438G>T
+p.Glu480X",Pathogenic,MUTYH-related attenuated familial adenomatous polyposis,mmc2_babyseq_variants,High
+MUTYH,"c.1187G>A
+p.Gly396Asp",Pathogenic,MUTYH-related attenuated familial adenomatous polyposis,mmc2_babyseq_variants,High
+MUTYH,"c.536A>G
+p.Tyr179Cys",Pathogenic,MUTYH-related attenuated familial adenomatous polyposis,mmc2_babyseq_variants,High
+MVK,"c.1129G>A
+p.Val377Ile",Pathogenic,Hyperimmunoglobulinemia D syndrome,mmc2_babyseq_variants,High
+MYBPC3,"c.3628-41_3628-17del
+p.?",Likely pathogenic,Cardiomyopathy,mmc2_babyseq_variants,Moderate
+MYH7,"c.457delC
+p.His153ThrfsX14",Likely pathogenic,Cardiomyopathy,mmc2_babyseq_variants,High
+NBAS,"c.1987C>T
+p.Gln663X",Likely pathogenic,Infantile liver failure syndrome,mmc2_babyseq_variants,High
+NBAS,"c.2950delA
+p.Ile984LeufsX8",Likely pathogenic,Infantile liver failure syndrome ,mmc2_babyseq_variants,High
+NMNAT1,"c.769G>A
+p.Glu257Lys",Pathogenic,Leber congenital amaurosis,mmc2_babyseq_variants,High
+NPC1,"c.3410_3411insA
+p.Asn1137LysfsX121",Likely pathogenic,Niemann-Pick disease Type C,mmc2_babyseq_variants,High
+NPC1,"c.3614C>G
+p.Thr1205Arg",Likely pathogenic,Niemann-Pick disease Type C,mmc2_babyseq_variants,High
+NPC1,"c.2621A>T
+p.Asp874Val",Pathogenic,Niemann-Pick disease Type C,mmc2_babyseq_variants,High
+NPC1,"c.1628C>T
+p.Pro543Leu
+",Pathogenic,Niemann-Pick disease Type C,mmc2_babyseq_variants,High
+NPHS2,"c.535‐1G>T
+p.?",Pathogenic,Idiopathic steroidresistant nephrotic syndrome,mmc2_babyseq_variants,High
+NUBPL,"c.2T>C
+p.Met1?",Likely pathogenic,Mitochondrial complex I deficiency,mmc2_babyseq_variants,High
+OCA2,"c.593C>T
+p.Pro198Leu ",Likely pathogenic,Oculocutaneous albinism II,mmc2_babyseq_variants,High
+ORC1,"c.314G>A
+p.Arg105Gln",Pathogenic,Meier-Gorlin syndrome,mmc2_babyseq_variants,High
+OTOF,"c.1544T>C
+p.Ile515Thr",Likely pathogenic,OTOF-related deafness,mmc2_babyseq_variants,High
+OTOGL,"c.4574-2A>G
+p.?",Likely pathogenic,Hearing loss,mmc2_babyseq_variants,High
+PAH,"c.1241A>G
+p.Tyr414Cys",Pathogenic,Phenylketonuria,mmc2_babyseq_variants,High
+PAPSS2,"c.222C>G 
+p.Tyr74X",Likely pathogenic,Brachyolmia,mmc2_babyseq_variants,High
+PARK2,c.823C>T                  p.Arg275Trp,Pathogenic,Early-onset Parkinson disease,mmc2_babyseq_variants,High
+PCCB,"c.337C>T
+p.Arg113X",Pathogenic,Propionic acidemia,mmc2_babyseq_variants,High
+PCNT,"c.7126C>T
+p.Gln2376X",Pathogenic,Microcephalic osteodysplastic primordial dwarfism type 2,mmc2_babyseq_variants,High
+PDE6B,"c.299G>A
+p.Arg100His",Likely pathogenic,Retinitis pigmentosa,mmc2_babyseq_variants,High
+PEPD,"c.1342G>A
+p.Gly448Arg",Pathogenic,Prolidase deficiency,mmc2_babyseq_variants,High
+PIGN,"c.674+1G>A
+p.?",Likely pathogenic,Multiple congenital anomalies-hypotonia-seizures syndrome,mmc2_babyseq_variants,High
+PIGN,"c.548_549+6del
+p. ?",Likely pathogenic,"Multiple congenital anomalieshypotonia-
+seizures syndrome",mmc2_babyseq_variants,High
+PIGO,"c.1810dupC
+p.Arg604ProfsX40",Likely pathogenic,Hyperphosphatasia with intellectual disability syndrome,mmc2_babyseq_variants,High
+PKHD1,"c.3761_3762delinsG
+p.Ala1254GlyfsX49",Pathogenic,Polycystic kidney disease,mmc2_babyseq_variants,High
+PKLR,c.1456C>T                                                                       p.Arg486Trp,Likely pathogenic,Pyruvate kinase deficiency,mmc2_babyseq_variants,High
+PMM2,"c.422G>A
+p.Arg141His",Pathogenic,"Congenital disorder of
+glycosylation type Ia",mmc2_babyseq_variants,High
+PNKP,"c.1295_1298+6del
+p.?",Likely pathogenic,Ataxia with oculomotor apraxia,mmc2_babyseq_variants,High
+PNP,"c.286-18G>A
+p.?",Likely pathogenic,Purine nucleoside phosphorylase deficiency,mmc2_babyseq_variants,High
+POLG,"c.2209G>C
+p.Gly737Arg",Likely pathogenic,POLG-related mitochondrial disorders,mmc2_babyseq_variants,High
+POLG,"c.830A>T
+p.His277Leu",Likely pathogenic,Mitochondrial DNA depletion syndrome,mmc2_babyseq_variants,High
+POMT1,"c.485delT
+p.Phe162SerfsX10",Likely pathogenic,POMT1-related muscular dystrophy-dystroglycanopathies,mmc2_babyseq_variants,High
+PYGM,"c.148C>T
+p.Arg50X",Pathogenic,Glycogen storage disorder type V,mmc2_babyseq_variants,High
+QDPR,c.472C>T                       p.His158Tyr,Likely pathogenic,Dihydropteridine reductase deficiency,mmc2_babyseq_variants,High
+RAB27A,"c.149delG
+p.Arg50LysfsX35",Pathogenic,Griscelli syndrome,mmc2_babyseq_variants,High
+RBM8A,"c.-21G>A
+p.?",Likely pathogenic,Thrombocytopenia with absent radius (TAR) syndrome,mmc2_babyseq_variants,High
+RBM8A,"c.67+32G>C
+p.?",Likely pathogenic,Thrombocytopenia with absent radius (TAR) syndrome,mmc2_babyseq_variants,High
+RECQL4,"c.1089C>G
+p.Tyr363X",Likely pathogenic,Rothmund-Thomson syndrome,mmc2_babyseq_variants,High
+RNASEH2A,"c.556C>T
+p.Arg186Trp",Likely pathogenic,Aicardi-Goutières syndrome,mmc2_babyseq_variants,High
+RNASEH2B,"c.529G>A
+p.Ala177Thr",Likely pathogenic,Aicardi–Goutières syndrome,mmc2_babyseq_variants,High
+RPGRIP1L,"c.2992delA
+p.Ile998PhefsX5",Likely pathogenic,Joubert syndrome-related disorders,mmc2_babyseq_variants,High
+RSPH1,"c.85G>T
+p.Glu29X",Pathogenic,Primary ciliary dyskinesia,mmc2_babyseq_variants,High
+RYR1,"c.6721C>T
+p.Arg2241X",Pathogenic,RYR1-related myopathy,mmc2_babyseq_variants,High
+SAR1B,"c.409G>A
+p.Asp137Asn",Likely pathogenic,Chylomicron retention disease,mmc2_babyseq_variants,High
+SCN9A,"c.4700G>A
+p.Trp1567X",Likely pathogenic,Congenital insensitivity to pain,mmc2_babyseq_variants,High
+SEC23B,"c.1640G>A
+p.Trp547X",Likely pathogenic,"Congenital dyserythropoietic anemia, type II",mmc2_babyseq_variants,High
+SERAC1,"c.21C>A
+p.Cys7X",Likely pathogenic,"3-methylglutaconic aciduria with deafness, encephalopathy, and Leigh-like (MEGDEL) syndrome",mmc2_babyseq_variants,High
+SI,"c.2159+2T>G
+p.?",Likely pathogenic,Congenital sucrase-isomaltase deficiency,mmc2_babyseq_variants,High
+SI,"c.1730T>G
+p.Val577Gly",Likely pathogenic,Congenital sucrase-isomaltase deficiency,mmc2_babyseq_variants,High
+SI,"c.3218G>A
+p.Gly1073Asp",Likely pathogenic,Congenital sucrase-isomaltase deficiency,mmc2_babyseq_variants,High
+SLC22A5,"c.424G>T
+p.Ala142Ser",Likely pathogenic,Primary carnitine deficiency,mmc2_babyseq_variants,High
+SLC22A5,"c.136C>T
+p.Pro46Ser",Pathogenic,Primary carnitine deficiency,mmc2_babyseq_variants,Incomplete
+SLC24A5,"c.1078+1G>A
+p.?",Likely pathogenic,Oculocutaneous albinism,mmc2_babyseq_variants,High
+SLC26A2,"c.835C>T
+p.Arg279Trp",Pathogenic,Diastrophic dysplasia,mmc2_babyseq_variants,High
+SLC26A4,"c.1003T>C
+p.Phe335Leu",Likely pathogenic,Pendred syndrome,mmc2_babyseq_variants,High
+SLC37A4,c.1042_1043delCT                                      p.Leu348ValfsX53,Pathogenic,Glycogen storage disease type I,mmc2_babyseq_variants,High
+SLC3A1,"c.1400T>C
+p.Met467Thr",Pathogenic,Cystinuria,mmc2_babyseq_variants,High
+SLC3A1,"c.1750delA
+p.Arg584GlufsX14",Likely pathogenic,Cystinuria,mmc2_babyseq_variants,High
+SLC5A2,"c.885+5G>A
+p.?",Likely pathogenic,Renal glucosuria,mmc2_babyseq_variants,High
+SLC7A9,"c.544G>A
+p.Ala182Thr",Likely pathogenic,Cystinuria,mmc2_babyseq_variants,High
+SMPD1,"c.757G>C
+p.Asp253His",Likely pathogenic,Acid sphingomyelinase deficiency,mmc2_babyseq_variants,High
+SPG11,"c.3711dupC
+p.Tyr1238LeufsX27",Pathogenic,Spastic paraplegia,mmc2_babyseq_variants,High
+SPG7,"c.773_774delTG
+p.Val258GlyfsX30",Pathogenic,Spastic paraplegia,mmc2_babyseq_variants,High
+SPG7,"c.1053dup
+p.Gly352ArgfsX44",Pathogenic,Spastic paraplegia,mmc2_babyseq_variants,High
+SPINK5,"c.817_818delAA
+p.Asn273GlnfsX2",Likely pathogenic,Netherton syndrome,mmc2_babyseq_variants,High
+TECTA,"c.2719C>T
+p.Arg907X",Likely pathogenic,Nonsyndromic hearing loss,mmc2_babyseq_variants,High
+TGM1,"c.919C>G
+p.Arg307Gly",Pathogenic,Lamellar ichthyosis,mmc2_babyseq_variants,High
+TK2,"c.416C>T
+p.Ala139Val",Likely pathogenic,TK2-related mitochondrial DNA depletion syndrome,mmc2_babyseq_variants,High
+TMEM237,"c.62delC
+p.Pro21Hisfs*125",Likely pathogenic,Joubert syndrome-related disorders,mmc2_babyseq_variants,High
+TMEM5,".1016A>G
+p.Tyr339Cys",Likely pathogenic,Congenital muscular dystrophy-dystroglycanopathy with brain and eye anomalies,mmc2_babyseq_variants,High
+TMEM67,"c.271C>T
+p.Arg91X",Likely pathogenic,Meckel syndrome,mmc2_babyseq_variants,High
+TMPRRS,"c.1276G>A
+p.Ala426Thr",Likely pathogenic,Nonsyndromic hearing loss,mmc2_babyseq_variants,High
+TRIM32,"c.691delG
+p.Ala231GlnfsX21",Likely pathogenic,Limb-girdle muscular dystrophy,mmc2_babyseq_variants,High
+TRIP11,"c.5719+2T>C
+p.?",Likely pathogenic,Achondrogenesis type 1A,mmc2_babyseq_variants,High
+TSEN54,"c.919G>T
+p.Ala307Ser",Pathogenic,Pontocerebellar hypoplasia,mmc2_babyseq_variants,High
+TTC37,"c.252T>G
+p.Tyr84X",Likely pathogenic,Trichohepatoenteric syndrome,mmc2_babyseq_variants,High
+TTN,"c.54172C>T
+p.Arg18058X",Likely pathogenic,Centronuclear myopathy,mmc2_babyseq_variants,High
+TTN,"c.64276_64282delinsTA
+p.Ala21426X",Likely pathogenic,Centronuclear myopathy,mmc2_babyseq_variants,High
+TTN,"c.34894_34895insG 
+p.Met11632SerfsX8",Likely pathogenic,Centronuclear myopathy,mmc2_babyseq_variants,High
+TULP1,"c.855_856insC
+p.Val286ArgfsX98",Likely pathogenic,Leber congenital amaurosis / retinitis pigmentosa,mmc2_babyseq_variants,High
+TYMP,"c.1160-1G>A
+p.?",Pathogenic,Mitochondrial neurogastrointestinal encephalopathy disease (MNGIE),mmc2_babyseq_variants,High
+TYR,"c.1217C>T
+p.Pro406Leu",Likely pathogenic,Oculocutaneous albinism type 1,mmc2_babyseq_variants,High
+TYR,"c.1037-7T>A
+p.?",Likely pathogenic,Oculocutaneous albinism type 1,mmc2_babyseq_variants,High
+TYR,"c.242C>T
+p.Pro81Leu",Pathogenic,Oculocutaneous albinism type 1,mmc2_babyseq_variants,High
+TYR,"c.1336G>A
+p.Gly446Ser",Pathogenic,Oculocutaneous albinism type 1,mmc2_babyseq_variants,High
+UNC80,"c.1513C>T
+p.Arg505X",Likely pathogenic,Infantile hypotonia with psycho-motor retardation and characteristic facies-2,mmc2_babyseq_variants,High
+USH1G,"c.1373A>T
+p.Asp458Val",Likely pathogenic,Usher syndrome,mmc2_babyseq_variants,High
+USH2A ,"c.2276G>T
+p.Cys759Phe",Pathogenic,Usher syndrome,mmc2_babyseq_variants,High
+USH2A ,c.949C>A                          p.Arg317Arg,Pathogenic,Usher syndrome,mmc2_babyseq_variants,High
+VWF,"c.3179delG
+p.Cys1060Leufs*59",Likely pathogenic,von Willebrand disease,mmc2_babyseq_variants,High
+VWF,"c.2561G>A
+p.Arg854Gln",Pathogenic,"Von Willebrand disease, type 2N",mmc2_babyseq_variants,Moderate
+WDR72,"c.88C>T
+p.Arg30X",Likely pathogenic,Amelogenesis imperfecta,mmc2_babyseq_variants,High
+WRN,"c.3913C>T
+p.Arg1305X",Pathogenic,Werner syndrome,mmc2_babyseq_variants,High
+XDH,"c.1686+1G>C
+p.?",Likely pathogenic,Hereditary xanthinuria type I,mmc2_babyseq_variants,High
+XDH,"c.3440C>G
+p.Ser1147X",Likely pathogenic,Hereditary xanthinuria type I,mmc2_babyseq_variants,High
+,,,,mmc2_babyseq_variants,
+"*Percent coverage of target exonic and splice (+/-1,2) regions at 20X",,,,mmc2_babyseq_variants,

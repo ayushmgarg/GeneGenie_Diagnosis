@@ -1,0 +1,8 @@
+{
+  "n_nodes": 9801,
+  "n_edges": 100000,
+  "n_components": 2,
+  "density": 0.0020822531645042467,
+  "avg_degree": 20.40608101214162,
+  "max_degree": 1024
+}

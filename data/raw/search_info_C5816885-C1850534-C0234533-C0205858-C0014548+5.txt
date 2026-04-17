@@ -1,0 +1,27 @@
+SEARCH INFORMATION
+==================
+
+Download Date:       3/11/2026, 4:54:47 PM
+
+SEARCH DETAILS
+--------------
+Search Terms:        Genetic generalized epilepsy (CUI: C5816885), Edema, generalized (CUI: C1850534), Generalized seizures (CUI: C0234533), General paresis - neurosyphilis (CUI: C0205858), Epilepsy, Generalized (CUI: C0014548), Generalized morphea (CUI: C0263664), Generalized pruritus (CUI: C0475858), Generalized Anxiety Disorder (CUI: C0270549), Generalized obesity (CUI: C0342942), Generalized hypotonia (CUI: C1858120)
+Analysis Type:       DISEASES
+Data Type:           Summary
+Source:              ALL
+Tab:                 GDA
+Total Results:       1644
+
+CUSTOM SCORE CONFIGURATION
+--------------------------
+My Score Active:     No
+
+FILTERS APPLIED
+---------------
+
+
+DISPLAY SETTINGS
+----------------
+Visible Columns:     diseaseName, geneSymbol, geneDescription, numDiseasesAssociatedToGene, numVariantsAssociatedToGene, score, sourceScore, numPMIDsupportingAssociation, numberChemsIncludedInEvidence, numberPmidsWithChemsIncludedInEvidence, numDBSNPsupportingAssociation, yearInitial, yearFinal, EI, geneDSI, geneDPI, genepLI, numCTs
+
+==================

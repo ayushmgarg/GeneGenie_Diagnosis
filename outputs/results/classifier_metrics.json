@@ -1,0 +1,26 @@
+[
+  {
+    "model": "RandomForest",
+    "accuracy": 0.9853333333333333,
+    "f1_macro": 0.9844285714285714,
+    "f1_weighted": 0.9844285714285714,
+    "top5_accuracy": 1.0,
+    "n_test": 1500,
+    "n_classes": 500
+  },
+  {
+    "model": "XGBoost",
+    "accuracy": 0.9666666666666667,
+    "f1_macro": 0.9661238095238095,
+    "f1_weighted": 0.9661238095238095,
+    "top5_accuracy": 0.9986666666666667,
+    "n_test": 1500,
+    "n_classes": 500
+  },
+  {
+    "model": "Ensemble_RF_XGB",
+    "accuracy": 0.982,
+    "f1_macro": 0.9816,
+    "top5_accuracy": 1.0
+  }
+]

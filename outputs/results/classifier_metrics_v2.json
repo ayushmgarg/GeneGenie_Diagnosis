@@ -1,0 +1,38 @@
+[
+  {
+    "model": "RandomForest",
+    "accuracy": 0.9636,
+    "f1_macro": 0.9621725163725162,
+    "top3_accuracy": 0.9884,
+    "top5_accuracy": 0.9932,
+    "top10_accuracy": 0.9976,
+    "n_test": 2500,
+    "n_classes": 500
+  },
+  {
+    "model": "XGBoost",
+    "accuracy": 0.9348,
+    "f1_macro": 0.9335114774114774,
+    "top3_accuracy": 0.9828,
+    "top5_accuracy": 0.9888,
+    "top10_accuracy": 0.9964,
+    "n_test": 2500,
+    "n_classes": 500
+  },
+  {
+    "model": "LogisticRegression",
+    "accuracy": 0.9952,
+    "f1_macro": 0.9951040404040404,
+    "top3_accuracy": 1.0,
+    "top5_accuracy": 1.0,
+    "top10_accuracy": 1.0,
+    "n_test": 2500,
+    "n_classes": 500
+  },
+  {
+    "model": "Ensemble_RF_XGB",
+    "accuracy": 0.9512,
+    "f1_macro": 0.9505333555333555,
+    "top5_accuracy": 0.9956
+  }
+]
