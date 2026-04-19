@@ -90,3 +90,10 @@ data/embeddings/
 
 # npm
 node_modules/
+
+#ppt and doc
+make_ppt.js
+make_script_doc.js
+generate_report.py
+generate_demo_guide.py
+demo_kg_explain.py
